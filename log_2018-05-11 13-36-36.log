@@ -1,0 +1,15 @@
+2018-05-11 13:36:36,802 INFO     Initial Log
+2018-05-11 13:36:36,810 INFO     PiRunTimeData.txt Initial
+2018-05-11 13:36:36,812 INFO     Camera Inits
+2018-05-11 13:36:36,827 INFO     Startime @1526067396.82
+2018-05-11 13:36:37,341 INFO     RT:0Watching Serial
+2018-05-11 13:36:42,811 INFO     Camera Settings Read
+2018-05-11 13:36:43,616 INFO     (650,450) photo saved
+2018-05-11 13:36:43,703 INFO     RT:6Watching Serial
+2018-05-11 13:36:48,723 INFO     RT:11Watching Serial
+2018-05-11 13:36:53,746 INFO     RT:16Watching Serial
+2018-05-11 13:36:58,769 INFO     RT:21Watching Serial
+2018-05-11 13:37:03,795 INFO     RT:26Watching Serial
+2018-05-11 13:37:05,443 INFO     Attempting to update camera settings
+2018-05-11 13:37:10,767 INFO     New Camera Settings Received
+2018-05-11 13:37:11,116 INFO     Camera Settings Read

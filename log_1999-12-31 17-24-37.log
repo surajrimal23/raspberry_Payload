@@ -1,0 +1,2251 @@
+1999-12-31 17:24:37,720 INFO     Initial Log
+1999-12-31 17:24:37,727 INFO     PiRunTimeData.txt Initial
+1999-12-31 17:24:37,729 INFO     Camera Inits
+1999-12-31 17:24:37,745 INFO     Startime @946686277.733
+1999-12-31 17:24:38,260 INFO     RT:0Watching Serial
+1999-12-31 17:24:43,704 INFO     Camera Settings Read
+1999-12-31 17:24:44,522 INFO     (650,450) photo saved
+1999-12-31 17:24:44,603 INFO     RT:6Watching Serial
+1999-12-31 17:24:49,624 INFO     RT:11Watching Serial
+1999-12-31 17:24:54,648 INFO     RT:16Watching Serial
+1999-12-31 17:24:59,674 INFO     RT:21Watching Serial
+1999-12-31 17:25:04,698 INFO     RT:26Watching Serial
+1999-12-31 17:25:09,725 INFO     RT:31Watching Serial
+1999-12-31 17:25:14,748 INFO     RT:37Watching Serial
+1999-12-31 17:25:19,775 INFO     RT:42Watching Serial
+1999-12-31 17:25:24,794 INFO     RT:47Watching Serial
+1999-12-31 17:25:29,816 INFO     RT:52Watching Serial
+1999-12-31 17:25:33,289 INFO     Send Image Command Received
+1999-12-31 17:25:33,303 INFO     Sending:image0000_b.jpg
+1999-12-31 17:25:33,330 INFO     214392: Image Size
+1999-12-31 17:25:33,342 INFO     photo request received
+1999-12-31 17:25:33,354 INFO     GPS Data Request Received
+1999-12-31 17:25:33,373 ERROR    $GPGGA,235022.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:25:33,376 ERROR    Quality is Zero
+1999-12-31 17:25:33,378 INFO     $GPGGA,235022.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:25:33,381 INFO     ,,
+1999-12-31 17:25:33,394 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:33,408 INFO     Send Position:0 // Remaining:209kB
+1999-12-31 17:25:40,644 INFO     try number:1
+1999-12-31 17:25:40,655 INFO     resending last @0
+1999-12-31 17:25:40,666 INFO     ours:90a689d9d376c2c8404cc75ba964e815
+1999-12-31 17:25:40,676 INFO     GPS Data Request Received
+1999-12-31 17:25:40,688 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:25:40,690 INFO     ,,
+1999-12-31 17:25:40,701 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:40,713 INFO     Send Position:0 // Remaining:209kB
+1999-12-31 17:25:41,665 INFO     GPS Data Request Received
+1999-12-31 17:25:41,686 INFO     $GPRMC,235022.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:25:41,688 INFO     ,,
+1999-12-31 17:25:41,700 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:41,714 INFO     Send Position:3000 // Remaining:206kB
+1999-12-31 17:25:42,655 INFO     GPS Data Request Received
+1999-12-31 17:25:42,672 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:25:42,674 INFO     ,,
+1999-12-31 17:25:42,686 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:42,700 INFO     Send Position:6000 // Remaining:203kB
+1999-12-31 17:25:43,705 INFO     GPS Data Request Received
+1999-12-31 17:25:43,722 ERROR    $GPGGA,235023.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:25:43,725 ERROR    Quality is Zero
+1999-12-31 17:25:43,727 INFO     $GPGGA,235023.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:25:43,730 INFO     ,,
+1999-12-31 17:25:43,741 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:43,756 INFO     Send Position:9000 // Remaining:200kB
+1999-12-31 17:25:44,713 INFO     GPS Data Request Received
+1999-12-31 17:25:44,727 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:25:44,730 INFO     ,,
+1999-12-31 17:25:44,741 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:44,756 INFO     Send Position:12000 // Remaining:197kB
+1999-12-31 17:25:45,744 INFO     GPS Data Request Received
+1999-12-31 17:25:45,765 INFO     $GPRMC,235023.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:25:45,767 INFO     ,,
+1999-12-31 17:25:45,780 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:45,795 INFO     Send Position:15000 // Remaining:194kB
+1999-12-31 17:25:46,768 INFO     GPS Data Request Received
+1999-12-31 17:25:46,784 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:25:46,787 INFO     ,,
+1999-12-31 17:25:46,799 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:46,815 INFO     Send Position:18000 // Remaining:191kB
+1999-12-31 17:25:47,796 INFO     GPS Data Request Received
+1999-12-31 17:25:47,814 ERROR    $GPGGA,235024.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:25:47,816 ERROR    Quality is Zero
+1999-12-31 17:25:47,818 INFO     $GPGGA,235024.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:25:47,821 INFO     ,,
+1999-12-31 17:25:47,833 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:47,849 INFO     Send Position:21000 // Remaining:188kB
+1999-12-31 17:25:48,809 INFO     GPS Data Request Received
+1999-12-31 17:25:48,823 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:25:48,825 INFO     ,,
+1999-12-31 17:25:48,838 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:48,853 INFO     Send Position:24000 // Remaining:185kB
+1999-12-31 17:25:49,828 INFO     GPS Data Request Received
+1999-12-31 17:25:49,841 INFO     $GPGSV,1,1,01,17,,,18*77
+
+1999-12-31 17:25:49,843 INFO     ,,
+1999-12-31 17:25:49,855 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:49,870 INFO     Send Position:27000 // Remaining:183kB
+1999-12-31 17:25:50,814 INFO     GPS Data Request Received
+1999-12-31 17:25:50,836 INFO     $GPRMC,235024.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:25:50,838 INFO     ,,
+1999-12-31 17:25:50,849 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:50,862 INFO     Send Position:30000 // Remaining:180kB
+1999-12-31 17:25:51,814 INFO     GPS Data Request Received
+1999-12-31 17:25:51,830 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:25:51,833 INFO     ,,
+1999-12-31 17:25:51,843 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:51,856 INFO     Send Position:33000 // Remaining:177kB
+1999-12-31 17:25:52,840 INFO     GPS Data Request Received
+1999-12-31 17:25:52,858 ERROR    $GPGGA,235025.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:25:52,860 ERROR    Quality is Zero
+1999-12-31 17:25:52,862 INFO     $GPGGA,235025.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:25:52,865 INFO     ,,
+1999-12-31 17:25:52,875 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:52,888 INFO     Send Position:36000 // Remaining:174kB
+1999-12-31 17:25:53,846 INFO     GPS Data Request Received
+1999-12-31 17:25:53,860 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:25:53,863 INFO     ,,
+1999-12-31 17:25:53,873 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:53,887 INFO     Send Position:39000 // Remaining:171kB
+1999-12-31 17:25:54,835 INFO     GPS Data Request Received
+1999-12-31 17:25:54,856 INFO     $GPRMC,235025.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:25:54,858 INFO     ,,
+1999-12-31 17:25:54,869 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:54,882 INFO     Send Position:42000 // Remaining:168kB
+1999-12-31 17:25:55,854 INFO     GPS Data Request Received
+1999-12-31 17:25:55,871 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:25:55,873 INFO     ,,
+1999-12-31 17:25:55,884 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:55,898 INFO     Send Position:45000 // Remaining:165kB
+1999-12-31 17:25:56,861 INFO     GPS Data Request Received
+1999-12-31 17:25:56,879 ERROR    $GPGGA,235026.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:25:56,881 ERROR    Quality is Zero
+1999-12-31 17:25:56,883 INFO     $GPGGA,235026.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:25:56,886 INFO     ,,
+1999-12-31 17:25:56,897 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:56,911 INFO     Send Position:48000 // Remaining:162kB
+1999-12-31 17:25:57,911 INFO     GPS Data Request Received
+1999-12-31 17:25:57,924 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:25:57,927 INFO     ,,
+1999-12-31 17:25:57,938 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:57,952 INFO     Send Position:51000 // Remaining:159kB
+1999-12-31 17:25:58,905 INFO     GPS Data Request Received
+1999-12-31 17:25:58,926 INFO     $GPRMC,235026.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:25:58,928 INFO     ,,
+1999-12-31 17:25:58,940 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:58,954 INFO     Send Position:54000 // Remaining:156kB
+1999-12-31 17:25:59,945 INFO     GPS Data Request Received
+1999-12-31 17:25:59,962 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:25:59,964 INFO     ,,
+1999-12-31 17:25:59,975 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:25:59,990 INFO     Send Position:57000 // Remaining:153kB
+1999-12-31 17:26:00,934 INFO     GPS Data Request Received
+1999-12-31 17:26:00,952 ERROR    $GPGGA,235027.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:26:00,954 ERROR    Quality is Zero
+1999-12-31 17:26:00,956 INFO     $GPGGA,235027.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:26:00,959 INFO     ,,
+1999-12-31 17:26:00,970 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:00,985 INFO     Send Position:60000 // Remaining:150kB
+1999-12-31 17:26:02,001 INFO     GPS Data Request Received
+1999-12-31 17:26:02,015 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:26:02,017 INFO     ,,
+1999-12-31 17:26:02,029 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:02,043 INFO     Send Position:63000 // Remaining:147kB
+1999-12-31 17:26:02,983 INFO     GPS Data Request Received
+1999-12-31 17:26:03,003 INFO     $GPRMC,235027.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:26:03,006 INFO     ,,
+1999-12-31 17:26:03,017 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:03,031 INFO     Send Position:66000 // Remaining:144kB
+1999-12-31 17:26:03,991 INFO     GPS Data Request Received
+1999-12-31 17:26:04,007 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:26:04,010 INFO     ,,
+1999-12-31 17:26:04,021 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:04,035 INFO     Send Position:69000 // Remaining:141kB
+1999-12-31 17:26:05,014 INFO     GPS Data Request Received
+1999-12-31 17:26:05,032 ERROR    $GPGGA,235028.082,,,,,0,00,,,M,,M,,*7C
+
+1999-12-31 17:26:05,034 ERROR    Quality is Zero
+1999-12-31 17:26:05,037 INFO     $GPGGA,235028.082,,,,,0,00,,,M,,M,,*7C
+
+1999-12-31 17:26:05,039 INFO     ,,
+1999-12-31 17:26:05,050 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:05,085 INFO     Send Position:72000 // Remaining:139kB
+1999-12-31 17:26:06,094 INFO     GPS Data Request Received
+1999-12-31 17:26:06,108 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:26:06,110 INFO     ,,
+1999-12-31 17:26:06,122 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:06,136 INFO     Send Position:75000 // Remaining:136kB
+1999-12-31 17:26:07,094 INFO     GPS Data Request Received
+1999-12-31 17:26:07,115 INFO     $GPRMC,235028.082,V,,,,,0.00,0.00,120419,,,N*46
+
+1999-12-31 17:26:07,117 INFO     ,,
+1999-12-31 17:26:07,129 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:07,143 INFO     Send Position:78000 // Remaining:133kB
+1999-12-31 17:26:08,125 INFO     GPS Data Request Received
+1999-12-31 17:26:08,141 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:26:08,143 INFO     ,,
+1999-12-31 17:26:08,155 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:08,169 INFO     Send Position:81000 // Remaining:130kB
+1999-12-31 17:26:09,131 INFO     GPS Data Request Received
+1999-12-31 17:26:09,149 ERROR    $GPGGA,235029.082,,,,,0,00,,,M,,M,,*7D
+
+1999-12-31 17:26:09,151 ERROR    Quality is Zero
+1999-12-31 17:26:09,153 INFO     $GPGGA,235029.082,,,,,0,00,,,M,,M,,*7D
+
+1999-12-31 17:26:09,155 INFO     ,,
+1999-12-31 17:26:09,167 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:09,181 INFO     Send Position:84000 // Remaining:127kB
+1999-12-31 17:26:10,181 INFO     GPS Data Request Received
+1999-12-31 17:26:10,192 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:26:10,194 INFO     ,,
+1999-12-31 17:26:10,205 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:10,217 INFO     Send Position:87000 // Remaining:124kB
+1999-12-31 17:26:11,179 INFO     GPS Data Request Received
+1999-12-31 17:26:11,191 INFO     $GPGSV,1,1,01,17,,,19*76
+
+1999-12-31 17:26:11,194 INFO     ,,
+1999-12-31 17:26:11,205 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:11,219 INFO     Send Position:90000 // Remaining:121kB
+1999-12-31 17:26:12,218 INFO     GPS Data Request Received
+1999-12-31 17:26:12,238 INFO     $GPRMC,235029.082,V,,,,,0.00,0.00,120419,,,N*47
+
+1999-12-31 17:26:12,240 INFO     ,,
+1999-12-31 17:26:12,253 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:12,266 INFO     Send Position:93000 // Remaining:118kB
+1999-12-31 17:26:13,222 INFO     GPS Data Request Received
+1999-12-31 17:26:13,238 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:26:13,240 INFO     ,,
+1999-12-31 17:26:13,252 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:13,265 INFO     Send Position:96000 // Remaining:115kB
+1999-12-31 17:26:14,271 INFO     GPS Data Request Received
+1999-12-31 17:26:14,288 ERROR    $GPGGA,235030.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:26:14,291 ERROR    Quality is Zero
+1999-12-31 17:26:14,293 INFO     $GPGGA,235030.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:26:14,295 INFO     ,,
+1999-12-31 17:26:14,309 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:14,323 INFO     Send Position:99000 // Remaining:112kB
+1999-12-31 17:26:15,275 INFO     GPS Data Request Received
+1999-12-31 17:26:15,287 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:26:15,289 INFO     ,,
+1999-12-31 17:26:15,299 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:15,311 INFO     Send Position:102000 // Remaining:109kB
+1999-12-31 17:26:16,308 INFO     GPS Data Request Received
+1999-12-31 17:26:16,329 INFO     $GPRMC,235030.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:26:16,331 INFO     ,,
+1999-12-31 17:26:16,343 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:16,357 INFO     Send Position:105000 // Remaining:106kB
+1999-12-31 17:26:17,311 INFO     GPS Data Request Received
+1999-12-31 17:26:17,327 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:26:17,330 INFO     ,,
+1999-12-31 17:26:17,341 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:17,355 INFO     Send Position:108000 // Remaining:103kB
+1999-12-31 17:26:18,361 INFO     GPS Data Request Received
+1999-12-31 17:26:18,378 ERROR    $GPGGA,235031.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:26:18,381 ERROR    Quality is Zero
+1999-12-31 17:26:18,383 INFO     $GPGGA,235031.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:26:18,385 INFO     ,,
+1999-12-31 17:26:18,397 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:18,411 INFO     Send Position:111000 // Remaining:100kB
+1999-12-31 17:26:19,372 INFO     GPS Data Request Received
+1999-12-31 17:26:19,386 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:26:19,389 INFO     ,,
+1999-12-31 17:26:19,403 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:19,421 INFO     Send Position:114000 // Remaining:98kB
+1999-12-31 17:26:20,400 INFO     GPS Data Request Received
+1999-12-31 17:26:20,424 INFO     $GPRMC,235031.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:26:20,427 INFO     ,,
+1999-12-31 17:26:20,441 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:20,459 INFO     Send Position:117000 // Remaining:95kB
+1999-12-31 17:26:21,431 INFO     GPS Data Request Received
+1999-12-31 17:26:21,451 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:26:21,454 INFO     ,,
+1999-12-31 17:26:21,469 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:21,487 INFO     Send Position:120000 // Remaining:92kB
+1999-12-31 17:26:22,455 INFO     GPS Data Request Received
+1999-12-31 17:26:22,475 ERROR    $GPGGA,235032.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:26:22,478 ERROR    Quality is Zero
+1999-12-31 17:26:22,481 INFO     $GPGGA,235032.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:26:22,484 INFO     ,,
+1999-12-31 17:26:22,498 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:22,516 INFO     Send Position:123000 // Remaining:89kB
+1999-12-31 17:26:33,145 INFO     try number:1
+1999-12-31 17:26:33,157 INFO     resending last @123000
+1999-12-31 17:26:33,170 INFO     ours:6983ae05df911933509ff6680ad0da76
+1999-12-31 17:26:33,181 INFO     GPS Data Request Received
+1999-12-31 17:26:33,195 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:26:33,198 INFO     ,,
+1999-12-31 17:26:33,209 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:33,223 INFO     Send Position:123000 // Remaining:89kB
+1999-12-31 17:26:48,994 INFO     try number:2
+1999-12-31 17:26:49,006 INFO     resending last @123000
+1999-12-31 17:26:49,019 INFO     ours:6983ae05df911933509ff6680ad0da76
+1999-12-31 17:26:49,030 INFO     GPS Data Request Received
+1999-12-31 17:26:49,051 INFO     $GPRMC,235032.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:26:49,053 INFO     ,,
+1999-12-31 17:26:49,064 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:26:49,079 INFO     Send Position:123000 // Remaining:89kB
+1999-12-31 17:27:04,830 INFO     try number:3
+1999-12-31 17:27:04,842 INFO     resending last @123000
+1999-12-31 17:27:04,854 INFO     ours:6983ae05df911933509ff6680ad0da76
+1999-12-31 17:27:04,865 INFO     GPS Data Request Received
+1999-12-31 17:27:04,882 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:27:04,884 INFO     ,,
+1999-12-31 17:27:04,895 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:27:04,910 INFO     Send Position:123000 // Remaining:89kB
+1999-12-31 17:27:10,244 INFO     error out
+1999-12-31 17:27:10,255 INFO     Image Send Complete
+1999-12-31 17:27:10,265 INFO     Send Time =96.9601449966
+1999-12-31 17:27:10,594 INFO     Camera Settings Read
+1999-12-31 17:27:11,401 INFO     (650,450) photo saved
+1999-12-31 17:27:11,484 INFO     RT:153Watching Serial
+1999-12-31 17:27:16,512 INFO     RT:158Watching Serial
+1999-12-31 17:27:21,534 INFO     RT:163Watching Serial
+1999-12-31 17:27:26,556 INFO     RT:168Watching Serial
+1999-12-31 17:27:31,576 INFO     RT:173Watching Serial
+1999-12-31 17:27:36,598 INFO     RT:178Watching Serial
+1999-12-31 17:27:41,618 INFO     RT:183Watching Serial
+1999-12-31 17:27:46,636 INFO     RT:188Watching Serial
+1999-12-31 17:27:51,663 INFO     RT:193Watching Serial
+1999-12-31 17:27:56,683 INFO     RT:198Watching Serial
+1999-12-31 17:28:01,704 INFO     RT:203Watching Serial
+1999-12-31 17:28:06,719 INFO     RT:208Watching Serial
+1999-12-31 17:28:12,065 INFO     Camera Settings Read
+1999-12-31 17:28:12,857 INFO     (650,450) photo saved
+1999-12-31 17:28:12,941 INFO     RT:215Watching Serial
+1999-12-31 17:28:17,956 INFO     RT:220Watching Serial
+1999-12-31 17:28:22,985 INFO     RT:225Watching Serial
+1999-12-31 17:28:28,005 INFO     RT:230Watching Serial
+1999-12-31 17:28:33,023 INFO     RT:235Watching Serial
+1999-12-31 17:28:38,043 INFO     RT:240Watching Serial
+1999-12-31 17:28:43,063 INFO     RT:245Watching Serial
+1999-12-31 17:28:48,077 INFO     RT:250Watching Serial
+1999-12-31 17:28:53,097 INFO     RT:255Watching Serial
+1999-12-31 17:28:58,124 INFO     RT:260Watching Serial
+1999-12-31 17:29:03,144 INFO     RT:265Watching Serial
+1999-12-31 17:29:07,231 INFO     Time Sync Request Recieved
+1999-12-31 17:29:07,244 INFO     RT:269Watching Serial
+1999-12-31 17:29:07,328 INFO     Ping Request Received
+1999-12-31 17:29:07,540 INFO     Ping Received
+1999-12-31 17:29:07,754 INFO     Ping Received
+1999-12-31 17:29:07,970 INFO     Ping Received
+1999-12-31 17:29:08,189 INFO     Ping Received
+1999-12-31 17:29:08,399 INFO     Ping Received
+1999-12-31 17:29:08,617 INFO     Ping Received
+1999-12-31 17:29:08,832 INFO     Ping Received
+1999-12-31 17:29:09,047 INFO     Ping Received
+1999-12-31 17:29:09,262 INFO     Ping Received
+1999-12-31 17:29:09,475 INFO     RT:271Watching Serial
+1999-12-31 17:29:14,819 INFO     Camera Settings Read
+1999-12-31 17:29:15,618 INFO     (650,450) photo saved
+1999-12-31 17:29:15,666 INFO     RT:277Watching Serial
+1999-12-31 17:29:20,684 INFO     RT:282Watching Serial
+1999-12-31 17:29:25,703 INFO     RT:287Watching Serial
+1999-12-31 17:29:30,724 INFO     RT:292Watching Serial
+1999-12-31 17:29:35,744 INFO     RT:298Watching Serial
+1999-12-31 17:29:40,759 INFO     RT:303Watching Serial
+1999-12-31 17:29:45,774 INFO     RT:308Watching Serial
+1999-12-31 17:29:50,788 INFO     RT:313Watching Serial
+1999-12-31 17:29:55,802 INFO     RT:318Watching Serial
+1999-12-31 17:30:00,815 INFO     RT:323Watching Serial
+1999-12-31 17:30:05,831 INFO     RT:328Watching Serial
+1999-12-31 17:30:10,844 INFO     RT:333Watching Serial
+1999-12-31 17:30:16,174 INFO     Camera Settings Read
+1999-12-31 17:30:16,972 INFO     (650,450) photo saved
+1999-12-31 17:30:17,019 INFO     RT:339Watching Serial
+1999-12-31 17:30:22,034 INFO     RT:344Watching Serial
+1999-12-31 17:30:24,255 INFO     Send Image Command Received
+1999-12-31 17:30:24,264 INFO     Sending:image0004_b.jpg
+1999-12-31 17:30:24,284 INFO     213860: Image Size
+1999-12-31 17:30:24,292 INFO     photo request received
+1999-12-31 17:30:24,300 INFO     GPS Data Request Received
+1999-12-31 17:30:24,317 ERROR    $GPGGA,235033.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:30:24,320 ERROR    Quality is Zero
+1999-12-31 17:30:24,322 INFO     $GPGGA,235033.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:30:24,324 INFO     ,,
+1999-12-31 17:30:24,332 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:24,343 INFO     Send Position:0 // Remaining:208kB
+1999-12-31 17:30:25,901 INFO     GPS Data Request Received
+1999-12-31 17:30:25,915 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:25,917 INFO     ,,
+1999-12-31 17:30:25,925 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:25,936 INFO     Send Position:3000 // Remaining:205kB
+1999-12-31 17:30:26,934 INFO     GPS Data Request Received
+1999-12-31 17:30:26,954 INFO     $GPRMC,235033.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:30:26,956 INFO     ,,
+1999-12-31 17:30:26,965 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:26,976 INFO     Send Position:6000 // Remaining:202kB
+1999-12-31 17:30:27,921 INFO     GPS Data Request Received
+1999-12-31 17:30:27,937 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:27,939 INFO     ,,
+1999-12-31 17:30:27,947 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:27,958 INFO     Send Position:9000 // Remaining:200kB
+1999-12-31 17:30:28,920 INFO     GPS Data Request Received
+1999-12-31 17:30:28,937 ERROR    $GPGGA,235034.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:30:28,939 ERROR    Quality is Zero
+1999-12-31 17:30:28,942 INFO     $GPGGA,235034.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:30:28,944 INFO     ,,
+1999-12-31 17:30:28,953 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:28,964 INFO     Send Position:12000 // Remaining:197kB
+1999-12-31 17:30:29,954 INFO     GPS Data Request Received
+1999-12-31 17:30:29,968 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:29,971 INFO     ,,
+1999-12-31 17:30:29,979 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:29,991 INFO     Send Position:15000 // Remaining:194kB
+1999-12-31 17:30:30,938 INFO     GPS Data Request Received
+1999-12-31 17:30:30,950 INFO     $GPGSV,1,1,01,17,,,21*7D
+
+1999-12-31 17:30:30,953 INFO     ,,
+1999-12-31 17:30:30,962 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:30,973 INFO     Send Position:18000 // Remaining:191kB
+1999-12-31 17:30:31,935 INFO     GPS Data Request Received
+1999-12-31 17:30:31,955 INFO     $GPRMC,235034.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:30:31,957 INFO     ,,
+1999-12-31 17:30:31,967 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:31,979 INFO     Send Position:21000 // Remaining:188kB
+1999-12-31 17:30:32,963 INFO     GPS Data Request Received
+1999-12-31 17:30:32,979 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:32,982 INFO     ,,
+1999-12-31 17:30:32,991 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:33,003 INFO     Send Position:24000 // Remaining:185kB
+1999-12-31 17:30:33,951 INFO     GPS Data Request Received
+1999-12-31 17:30:33,969 ERROR    $GPGGA,235035.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:30:33,971 ERROR    Quality is Zero
+1999-12-31 17:30:33,973 INFO     $GPGGA,235035.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:30:33,975 INFO     ,,
+1999-12-31 17:30:33,985 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:33,998 INFO     Send Position:27000 // Remaining:182kB
+1999-12-31 17:30:34,959 INFO     GPS Data Request Received
+1999-12-31 17:30:34,973 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:34,976 INFO     ,,
+1999-12-31 17:30:34,986 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:34,999 INFO     Send Position:30000 // Remaining:179kB
+1999-12-31 17:30:35,977 INFO     GPS Data Request Received
+1999-12-31 17:30:35,998 INFO     $GPRMC,235035.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:30:36,000 INFO     ,,
+1999-12-31 17:30:36,010 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:36,023 INFO     Send Position:33000 // Remaining:176kB
+1999-12-31 17:30:36,981 INFO     GPS Data Request Received
+1999-12-31 17:30:36,997 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:37,000 INFO     ,,
+1999-12-31 17:30:37,010 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:37,023 INFO     Send Position:36000 // Remaining:173kB
+1999-12-31 17:30:38,008 INFO     GPS Data Request Received
+1999-12-31 17:30:38,026 ERROR    $GPGGA,235036.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:30:38,028 ERROR    Quality is Zero
+1999-12-31 17:30:38,031 INFO     $GPGGA,235036.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:30:38,033 INFO     ,,
+1999-12-31 17:30:38,043 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:38,056 INFO     Send Position:39000 // Remaining:170kB
+1999-12-31 17:30:39,018 INFO     GPS Data Request Received
+1999-12-31 17:30:39,032 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:39,034 INFO     ,,
+1999-12-31 17:30:39,044 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:39,058 INFO     Send Position:42000 // Remaining:167kB
+1999-12-31 17:30:40,076 INFO     GPS Data Request Received
+1999-12-31 17:30:40,133 INFO     $GPRMC,235036.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:30:40,135 INFO     ,,
+1999-12-31 17:30:40,156 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:40,182 INFO     Send Position:45000 // Remaining:164kB
+1999-12-31 17:30:41,144 INFO     GPS Data Request Received
+1999-12-31 17:30:41,160 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:41,163 INFO     ,,
+1999-12-31 17:30:41,173 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:41,188 INFO     Send Position:48000 // Remaining:161kB
+1999-12-31 17:30:42,151 INFO     GPS Data Request Received
+1999-12-31 17:30:42,168 ERROR    $GPGGA,235037.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:30:42,171 ERROR    Quality is Zero
+1999-12-31 17:30:42,173 INFO     $GPGGA,235037.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:30:42,175 INFO     ,,
+1999-12-31 17:30:42,187 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:42,201 INFO     Send Position:51000 // Remaining:159kB
+1999-12-31 17:30:43,177 INFO     GPS Data Request Received
+1999-12-31 17:30:43,191 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:43,193 INFO     ,,
+1999-12-31 17:30:43,205 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:43,219 INFO     Send Position:54000 // Remaining:156kB
+1999-12-31 17:30:44,185 INFO     GPS Data Request Received
+1999-12-31 17:30:44,205 INFO     $GPRMC,235037.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:30:44,208 INFO     ,,
+1999-12-31 17:30:44,220 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:44,234 INFO     Send Position:57000 // Remaining:153kB
+1999-12-31 17:30:45,233 INFO     GPS Data Request Received
+1999-12-31 17:30:45,249 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:45,252 INFO     ,,
+1999-12-31 17:30:45,262 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:45,273 INFO     Send Position:60000 // Remaining:150kB
+1999-12-31 17:30:46,219 INFO     GPS Data Request Received
+1999-12-31 17:30:46,237 ERROR    $GPGGA,235038.082,,,,,0,00,,,M,,M,,*7D
+
+1999-12-31 17:30:46,239 ERROR    Quality is Zero
+1999-12-31 17:30:46,241 INFO     $GPGGA,235038.082,,,,,0,00,,,M,,M,,*7D
+
+1999-12-31 17:30:46,244 INFO     ,,
+1999-12-31 17:30:46,255 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:46,269 INFO     Send Position:63000 // Remaining:147kB
+1999-12-31 17:30:47,270 INFO     GPS Data Request Received
+1999-12-31 17:30:47,284 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:47,286 INFO     ,,
+1999-12-31 17:30:47,298 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:47,312 INFO     Send Position:66000 // Remaining:144kB
+1999-12-31 17:30:48,253 INFO     GPS Data Request Received
+1999-12-31 17:30:48,273 INFO     $GPRMC,235038.082,V,,,,,0.00,0.00,120419,,,N*47
+
+1999-12-31 17:30:48,275 INFO     ,,
+1999-12-31 17:30:48,287 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:48,301 INFO     Send Position:69000 // Remaining:141kB
+1999-12-31 17:30:49,253 INFO     GPS Data Request Received
+1999-12-31 17:30:49,269 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:49,272 INFO     ,,
+1999-12-31 17:30:49,283 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:49,297 INFO     Send Position:72000 // Remaining:138kB
+1999-12-31 17:30:50,286 INFO     GPS Data Request Received
+1999-12-31 17:30:50,304 ERROR    $GPGGA,235039.082,,,,,0,00,,,M,,M,,*7C
+
+1999-12-31 17:30:50,306 ERROR    Quality is Zero
+1999-12-31 17:30:50,308 INFO     $GPGGA,235039.082,,,,,0,00,,,M,,M,,*7C
+
+1999-12-31 17:30:50,311 INFO     ,,
+1999-12-31 17:30:50,322 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:50,336 INFO     Send Position:75000 // Remaining:135kB
+1999-12-31 17:30:51,288 INFO     GPS Data Request Received
+1999-12-31 17:30:51,302 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:51,304 INFO     ,,
+1999-12-31 17:30:51,315 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:51,329 INFO     Send Position:78000 // Remaining:132kB
+1999-12-31 17:30:52,338 INFO     GPS Data Request Received
+1999-12-31 17:30:52,350 INFO     $GPGSV,1,1,01,17,,,22*7E
+
+1999-12-31 17:30:52,352 INFO     ,,
+1999-12-31 17:30:52,364 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:52,378 INFO     Send Position:81000 // Remaining:129kB
+1999-12-31 17:30:53,330 INFO     GPS Data Request Received
+1999-12-31 17:30:53,350 INFO     $GPRMC,235039.082,V,,,,,0.00,0.00,120419,,,N*46
+
+1999-12-31 17:30:53,353 INFO     ,,
+1999-12-31 17:30:53,364 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:53,379 INFO     Send Position:84000 // Remaining:126kB
+1999-12-31 17:30:54,373 INFO     GPS Data Request Received
+1999-12-31 17:30:54,392 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:54,395 INFO     ,,
+1999-12-31 17:30:54,409 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:54,426 INFO     Send Position:87000 // Remaining:123kB
+1999-12-31 17:30:55,404 INFO     GPS Data Request Received
+1999-12-31 17:30:55,422 ERROR    $GPGGA,235040.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:30:55,424 ERROR    Quality is Zero
+1999-12-31 17:30:55,426 INFO     $GPGGA,235040.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:30:55,430 INFO     ,,
+1999-12-31 17:30:55,443 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:55,461 INFO     Send Position:90000 // Remaining:120kB
+1999-12-31 17:30:56,435 INFO     GPS Data Request Received
+1999-12-31 17:30:56,452 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:30:56,455 INFO     ,,
+1999-12-31 17:30:56,469 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:56,486 INFO     Send Position:93000 // Remaining:118kB
+1999-12-31 17:30:57,439 INFO     GPS Data Request Received
+1999-12-31 17:30:57,464 INFO     $GPRMC,235040.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:30:57,467 INFO     ,,
+1999-12-31 17:30:57,481 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:57,499 INFO     Send Position:96000 // Remaining:115kB
+1999-12-31 17:30:58,461 INFO     GPS Data Request Received
+1999-12-31 17:30:58,481 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:30:58,484 INFO     ,,
+1999-12-31 17:30:58,498 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:58,515 INFO     Send Position:99000 // Remaining:112kB
+1999-12-31 17:30:59,470 INFO     GPS Data Request Received
+1999-12-31 17:30:59,491 ERROR    $GPGGA,235041.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:30:59,494 ERROR    Quality is Zero
+1999-12-31 17:30:59,497 INFO     $GPGGA,235041.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:30:59,500 INFO     ,,
+1999-12-31 17:30:59,514 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:30:59,532 INFO     Send Position:102000 // Remaining:109kB
+1999-12-31 17:31:00,525 INFO     GPS Data Request Received
+1999-12-31 17:31:00,541 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:00,544 INFO     ,,
+1999-12-31 17:31:00,558 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:00,573 INFO     Send Position:105000 // Remaining:106kB
+1999-12-31 17:31:01,533 INFO     GPS Data Request Received
+1999-12-31 17:31:01,557 INFO     $GPRMC,235041.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:31:01,561 INFO     ,,
+1999-12-31 17:31:01,574 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:01,592 INFO     Send Position:108000 // Remaining:103kB
+1999-12-31 17:31:02,552 INFO     GPS Data Request Received
+1999-12-31 17:31:02,571 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:02,574 INFO     ,,
+1999-12-31 17:31:02,588 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:02,602 INFO     Send Position:111000 // Remaining:100kB
+1999-12-31 17:31:03,558 INFO     GPS Data Request Received
+1999-12-31 17:31:03,575 ERROR    $GPGGA,235042.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:31:03,578 ERROR    Quality is Zero
+1999-12-31 17:31:03,580 INFO     $GPGGA,235042.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:31:03,582 INFO     ,,
+1999-12-31 17:31:03,594 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:03,608 INFO     Send Position:114000 // Remaining:97kB
+1999-12-31 17:31:04,607 INFO     GPS Data Request Received
+1999-12-31 17:31:04,621 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:04,623 INFO     ,,
+1999-12-31 17:31:04,635 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:04,649 INFO     Send Position:117000 // Remaining:94kB
+1999-12-31 17:31:05,623 INFO     GPS Data Request Received
+1999-12-31 17:31:05,644 INFO     $GPRMC,235042.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:31:05,647 INFO     ,,
+1999-12-31 17:31:05,659 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:05,673 INFO     Send Position:120000 // Remaining:91kB
+1999-12-31 17:31:06,641 INFO     GPS Data Request Received
+1999-12-31 17:31:06,657 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:06,660 INFO     ,,
+1999-12-31 17:31:06,671 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:06,685 INFO     Send Position:123000 // Remaining:88kB
+1999-12-31 17:31:07,750 INFO     GPS Data Request Received
+1999-12-31 17:31:07,767 ERROR    $GPGGA,235043.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:31:07,770 ERROR    Quality is Zero
+1999-12-31 17:31:07,772 INFO     $GPGGA,235043.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:31:07,775 INFO     ,,
+1999-12-31 17:31:07,786 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:07,800 INFO     Send Position:126000 // Remaining:85kB
+1999-12-31 17:31:08,794 INFO     GPS Data Request Received
+1999-12-31 17:31:08,808 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:08,810 INFO     ,,
+1999-12-31 17:31:08,822 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:08,836 INFO     Send Position:129000 // Remaining:82kB
+1999-12-31 17:31:09,802 INFO     GPS Data Request Received
+1999-12-31 17:31:09,822 INFO     $GPRMC,235043.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:31:09,824 INFO     ,,
+1999-12-31 17:31:09,836 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:09,850 INFO     Send Position:132000 // Remaining:79kB
+1999-12-31 17:31:10,854 INFO     GPS Data Request Received
+1999-12-31 17:31:10,871 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:10,873 INFO     ,,
+1999-12-31 17:31:10,884 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:10,898 INFO     Send Position:135000 // Remaining:77kB
+1999-12-31 17:31:11,854 INFO     GPS Data Request Received
+1999-12-31 17:31:11,872 ERROR    $GPGGA,235044.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:31:11,874 ERROR    Quality is Zero
+1999-12-31 17:31:11,876 INFO     $GPGGA,235044.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:31:11,879 INFO     ,,
+1999-12-31 17:31:11,890 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:11,905 INFO     Send Position:138000 // Remaining:74kB
+1999-12-31 17:31:12,882 INFO     GPS Data Request Received
+1999-12-31 17:31:12,896 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:12,898 INFO     ,,
+1999-12-31 17:31:12,910 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:12,924 INFO     Send Position:141000 // Remaining:71kB
+1999-12-31 17:31:13,891 INFO     GPS Data Request Received
+1999-12-31 17:31:13,904 INFO     $GPGSV,1,1,01,17,,,23*7F
+
+1999-12-31 17:31:13,906 INFO     ,,
+1999-12-31 17:31:13,918 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:13,931 INFO     Send Position:144000 // Remaining:68kB
+1999-12-31 17:31:14,940 INFO     GPS Data Request Received
+1999-12-31 17:31:14,961 INFO     $GPRMC,235044.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:31:14,963 INFO     ,,
+1999-12-31 17:31:14,975 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:14,989 INFO     Send Position:147000 // Remaining:65kB
+1999-12-31 17:31:15,938 INFO     GPS Data Request Received
+1999-12-31 17:31:15,954 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:15,956 INFO     ,,
+1999-12-31 17:31:15,968 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:15,982 INFO     Send Position:150000 // Remaining:62kB
+1999-12-31 17:31:16,976 INFO     GPS Data Request Received
+1999-12-31 17:31:16,993 ERROR    $GPGGA,235045.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:31:16,995 ERROR    Quality is Zero
+1999-12-31 17:31:16,998 INFO     $GPGGA,235045.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:31:17,000 INFO     ,,
+1999-12-31 17:31:17,012 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:17,026 INFO     Send Position:153000 // Remaining:59kB
+1999-12-31 17:31:17,981 INFO     GPS Data Request Received
+1999-12-31 17:31:17,995 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:17,998 INFO     ,,
+1999-12-31 17:31:18,009 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:18,023 INFO     Send Position:156000 // Remaining:56kB
+1999-12-31 17:31:19,031 INFO     GPS Data Request Received
+1999-12-31 17:31:19,052 INFO     $GPRMC,235045.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:31:19,054 INFO     ,,
+1999-12-31 17:31:19,066 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:19,080 INFO     Send Position:159000 // Remaining:53kB
+1999-12-31 17:31:20,043 INFO     GPS Data Request Received
+1999-12-31 17:31:20,073 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:20,076 INFO     ,,
+1999-12-31 17:31:20,112 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:20,136 INFO     Send Position:162000 // Remaining:50kB
+1999-12-31 17:31:21,103 INFO     GPS Data Request Received
+1999-12-31 17:31:21,121 ERROR    $GPGGA,235046.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:31:21,123 ERROR    Quality is Zero
+1999-12-31 17:31:21,125 INFO     $GPGGA,235046.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:31:21,128 INFO     ,,
+1999-12-31 17:31:21,139 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:21,154 INFO     Send Position:165000 // Remaining:47kB
+1999-12-31 17:31:22,144 INFO     GPS Data Request Received
+1999-12-31 17:31:22,157 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:22,160 INFO     ,,
+1999-12-31 17:31:22,171 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:22,186 INFO     Send Position:168000 // Remaining:44kB
+1999-12-31 17:31:23,148 INFO     GPS Data Request Received
+1999-12-31 17:31:23,168 INFO     $GPRMC,235046.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:31:23,171 INFO     ,,
+1999-12-31 17:31:23,182 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:23,196 INFO     Send Position:171000 // Remaining:41kB
+1999-12-31 17:31:24,197 INFO     GPS Data Request Received
+1999-12-31 17:31:24,214 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:24,216 INFO     ,,
+1999-12-31 17:31:24,228 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:24,242 INFO     Send Position:174000 // Remaining:38kB
+1999-12-31 17:31:25,193 INFO     GPS Data Request Received
+1999-12-31 17:31:25,209 ERROR    $GPGGA,235047.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:31:25,211 ERROR    Quality is Zero
+1999-12-31 17:31:25,213 INFO     $GPGGA,235047.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:31:25,215 INFO     ,,
+1999-12-31 17:31:25,225 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:25,238 INFO     Send Position:177000 // Remaining:35kB
+1999-12-31 17:31:26,236 INFO     GPS Data Request Received
+1999-12-31 17:31:26,250 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:26,252 INFO     ,,
+1999-12-31 17:31:26,264 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:26,278 INFO     Send Position:180000 // Remaining:33kB
+1999-12-31 17:31:29,988 INFO     try number:1
+1999-12-31 17:31:30,000 INFO     resending last @180000
+1999-12-31 17:31:30,012 INFO     ours:6a0e53f72080d3aa1b91f8a81d78b8a6
+1999-12-31 17:31:30,023 INFO     GPS Data Request Received
+1999-12-31 17:31:30,044 INFO     $GPRMC,235047.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:31:30,046 INFO     ,,
+1999-12-31 17:31:30,063 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:30,096 INFO     Send Position:180000 // Remaining:33kB
+1999-12-31 17:31:31,080 INFO     GPS Data Request Received
+1999-12-31 17:31:31,096 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:31,098 INFO     ,,
+1999-12-31 17:31:31,110 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:31,124 INFO     Send Position:183000 // Remaining:30kB
+1999-12-31 17:31:32,068 INFO     GPS Data Request Received
+1999-12-31 17:31:32,089 ERROR    $GPGGA,235048.082,,,,,0,00,,,M,,M,,*7A
+
+1999-12-31 17:31:32,091 ERROR    Quality is Zero
+1999-12-31 17:31:32,093 INFO     $GPGGA,235048.082,,,,,0,00,,,M,,M,,*7A
+
+1999-12-31 17:31:32,096 INFO     ,,
+1999-12-31 17:31:32,107 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:32,122 INFO     Send Position:186000 // Remaining:27kB
+1999-12-31 17:31:33,117 INFO     GPS Data Request Received
+1999-12-31 17:31:33,131 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:33,133 INFO     ,,
+1999-12-31 17:31:33,145 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:33,159 INFO     Send Position:189000 // Remaining:24kB
+1999-12-31 17:31:34,121 INFO     GPS Data Request Received
+1999-12-31 17:31:34,141 INFO     $GPRMC,235048.082,V,,,,,0.00,0.00,120419,,,N*40
+
+1999-12-31 17:31:34,143 INFO     ,,
+1999-12-31 17:31:34,155 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:34,169 INFO     Send Position:192000 // Remaining:21kB
+1999-12-31 17:31:35,170 INFO     GPS Data Request Received
+1999-12-31 17:31:35,184 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:35,186 INFO     ,,
+1999-12-31 17:31:35,196 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:35,209 INFO     Send Position:195000 // Remaining:18kB
+1999-12-31 17:31:36,176 INFO     GPS Data Request Received
+1999-12-31 17:31:36,193 ERROR    $GPGGA,235049.082,,,,,0,00,,,M,,M,,*7B
+
+1999-12-31 17:31:36,195 ERROR    Quality is Zero
+1999-12-31 17:31:36,198 INFO     $GPGGA,235049.082,,,,,0,00,,,M,,M,,*7B
+
+1999-12-31 17:31:36,200 INFO     ,,
+1999-12-31 17:31:36,212 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:36,226 INFO     Send Position:198000 // Remaining:15kB
+1999-12-31 17:31:37,212 INFO     GPS Data Request Received
+1999-12-31 17:31:37,226 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:31:37,228 INFO     ,,
+1999-12-31 17:31:37,240 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:37,254 INFO     Send Position:201000 // Remaining:12kB
+1999-12-31 17:31:38,232 INFO     GPS Data Request Received
+1999-12-31 17:31:38,245 INFO     $GPGSV,1,1,01,17,,,24*78
+
+1999-12-31 17:31:38,247 INFO     ,,
+1999-12-31 17:31:38,259 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:38,273 INFO     Send Position:204000 // Remaining:9kB
+1999-12-31 17:31:39,260 INFO     GPS Data Request Received
+1999-12-31 17:31:39,281 INFO     $GPRMC,235049.082,V,,,,,0.00,0.00,120419,,,N*41
+
+1999-12-31 17:31:39,283 INFO     ,,
+1999-12-31 17:31:39,295 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:39,309 INFO     Send Position:207000 // Remaining:6kB
+1999-12-31 17:31:40,276 INFO     GPS Data Request Received
+1999-12-31 17:31:40,309 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:31:40,311 INFO     ,,
+1999-12-31 17:31:40,330 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:40,343 INFO     Send Position:210000 // Remaining:3kB
+1999-12-31 17:31:41,301 INFO     GPS Data Request Received
+1999-12-31 17:31:41,327 ERROR    $GPGGA,235050.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:31:41,329 ERROR    Quality is Zero
+1999-12-31 17:31:41,331 INFO     $GPGGA,235050.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:31:41,333 INFO     ,,
+1999-12-31 17:31:41,354 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:31:41,381 INFO     Send Position:213000 // Remaining:0kB
+1999-12-31 17:31:44,472 INFO     Image Send Complete
+1999-12-31 17:31:44,486 INFO     Send Time =80.2198359966
+1999-12-31 17:31:44,811 INFO     Camera Settings Read
+1999-12-31 17:31:45,664 INFO     (650,450) photo saved
+1999-12-31 17:31:45,749 INFO     RT:428Watching Serial
+1999-12-31 17:31:50,767 INFO     RT:433Watching Serial
+1999-12-31 17:31:53,471 INFO     RT:435Watching Serial
+1999-12-31 17:31:56,569 INFO     RT:438Watching Serial
+1999-12-31 17:32:01,589 INFO     RT:443Watching Serial
+1999-12-31 17:32:06,614 INFO     RT:448Watching Serial
+1999-12-31 17:32:10,653 INFO     Attempting to update camera settings
+1999-12-31 17:32:15,744 INFO     New Camera Settings Received
+1999-12-31 17:32:16,073 INFO     Camera Settings Read
+1999-12-31 17:32:16,804 INFO     (1639,772) photo saved
+1999-12-31 17:32:16,862 INFO     RT:459Watching Serial
+1999-12-31 17:32:20,868 INFO     Attempting to send camera settings
+1999-12-31 17:32:20,880 INFO     Camera Settings Sent
+1999-12-31 17:32:20,892 INFO     RT:463Watching Serial
+1999-12-31 17:32:24,710 INFO     Send Image Command Received
+1999-12-31 17:32:24,722 INFO     Sending:image0006_b.jpg
+1999-12-31 17:32:24,816 INFO     1454252: Image Size
+1999-12-31 17:32:24,826 INFO     photo request received
+1999-12-31 17:32:24,838 INFO     GPS Data Request Received
+1999-12-31 17:32:24,850 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:24,852 INFO     ,,
+1999-12-31 17:32:24,861 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:24,873 INFO     Send Position:0 // Remaining:1420kB
+1999-12-31 17:32:26,359 INFO     GPS Data Request Received
+1999-12-31 17:32:26,380 INFO     $GPRMC,235050.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:32:26,384 INFO     ,,
+1999-12-31 17:32:26,397 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:26,414 INFO     Send Position:3000 // Remaining:1417kB
+1999-12-31 17:32:27,392 INFO     GPS Data Request Received
+1999-12-31 17:32:27,408 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:27,410 INFO     ,,
+1999-12-31 17:32:27,421 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:27,436 INFO     Send Position:6000 // Remaining:1414kB
+1999-12-31 17:32:28,399 INFO     GPS Data Request Received
+1999-12-31 17:32:28,420 ERROR    $GPGGA,235051.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:32:28,423 ERROR    Quality is Zero
+1999-12-31 17:32:28,426 INFO     $GPGGA,235051.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:32:28,429 INFO     ,,
+1999-12-31 17:32:28,442 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:28,459 INFO     Send Position:9000 // Remaining:1411kB
+1999-12-31 17:32:29,429 INFO     GPS Data Request Received
+1999-12-31 17:32:29,446 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:29,449 INFO     ,,
+1999-12-31 17:32:29,462 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:29,479 INFO     Send Position:12000 // Remaining:1408kB
+1999-12-31 17:32:30,455 INFO     GPS Data Request Received
+1999-12-31 17:32:30,480 INFO     $GPRMC,235051.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:32:30,483 INFO     ,,
+1999-12-31 17:32:30,495 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:30,513 INFO     Send Position:15000 // Remaining:1405kB
+1999-12-31 17:32:31,485 INFO     GPS Data Request Received
+1999-12-31 17:32:31,504 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:31,507 INFO     ,,
+1999-12-31 17:32:31,520 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:31,537 INFO     Send Position:18000 // Remaining:1402kB
+1999-12-31 17:32:32,493 INFO     GPS Data Request Received
+1999-12-31 17:32:32,514 ERROR    $GPGGA,235052.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:32:32,517 ERROR    Quality is Zero
+1999-12-31 17:32:32,520 INFO     $GPGGA,235052.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:32:32,523 INFO     ,,
+1999-12-31 17:32:32,537 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:32,554 INFO     Send Position:21000 // Remaining:1399kB
+1999-12-31 17:32:33,517 INFO     GPS Data Request Received
+1999-12-31 17:32:33,533 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:33,536 INFO     ,,
+1999-12-31 17:32:33,547 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:33,561 INFO     Send Position:24000 // Remaining:1396kB
+1999-12-31 17:32:34,522 INFO     GPS Data Request Received
+1999-12-31 17:32:34,547 INFO     $GPRMC,235052.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:32:34,549 INFO     ,,
+1999-12-31 17:32:34,560 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:34,573 INFO     Send Position:27000 // Remaining:1393kB
+1999-12-31 17:32:35,572 INFO     GPS Data Request Received
+1999-12-31 17:32:35,592 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:35,594 INFO     ,,
+1999-12-31 17:32:35,608 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:35,622 INFO     Send Position:30000 // Remaining:1390kB
+1999-12-31 17:32:36,577 INFO     GPS Data Request Received
+1999-12-31 17:32:36,599 ERROR    $GPGGA,235053.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:32:36,601 ERROR    Quality is Zero
+1999-12-31 17:32:36,604 INFO     $GPGGA,235053.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:32:36,606 INFO     ,,
+1999-12-31 17:32:36,616 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:36,630 INFO     Send Position:33000 // Remaining:1387kB
+1999-12-31 17:32:37,606 INFO     GPS Data Request Received
+1999-12-31 17:32:37,620 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:37,622 INFO     ,,
+1999-12-31 17:32:37,633 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:37,647 INFO     Send Position:36000 // Remaining:1385kB
+1999-12-31 17:32:38,611 INFO     GPS Data Request Received
+1999-12-31 17:32:38,631 INFO     $GPRMC,235053.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:32:38,634 INFO     ,,
+1999-12-31 17:32:38,644 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:38,658 INFO     Send Position:39000 // Remaining:1382kB
+1999-12-31 17:32:39,660 INFO     GPS Data Request Received
+1999-12-31 17:32:39,676 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:39,679 INFO     ,,
+1999-12-31 17:32:39,690 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:39,704 INFO     Send Position:42000 // Remaining:1379kB
+1999-12-31 17:32:40,645 INFO     GPS Data Request Received
+1999-12-31 17:32:40,662 ERROR    $GPGGA,235054.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:32:40,665 ERROR    Quality is Zero
+1999-12-31 17:32:40,667 INFO     $GPGGA,235054.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:32:40,670 INFO     ,,
+1999-12-31 17:32:40,681 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:40,695 INFO     Send Position:45000 // Remaining:1376kB
+1999-12-31 17:32:41,696 INFO     GPS Data Request Received
+1999-12-31 17:32:41,709 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:41,712 INFO     ,,
+1999-12-31 17:32:41,723 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:41,738 INFO     Send Position:48000 // Remaining:1373kB
+1999-12-31 17:32:42,680 INFO     GPS Data Request Received
+1999-12-31 17:32:42,692 INFO     $GPGSV,1,1,01,17,,,24*78
+
+1999-12-31 17:32:42,694 INFO     ,,
+1999-12-31 17:32:42,705 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:42,720 INFO     Send Position:51000 // Remaining:1370kB
+1999-12-31 17:32:43,684 INFO     GPS Data Request Received
+1999-12-31 17:32:43,704 INFO     $GPRMC,235054.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:32:43,706 INFO     ,,
+1999-12-31 17:32:43,718 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:43,732 INFO     Send Position:54000 // Remaining:1367kB
+1999-12-31 17:32:44,709 INFO     GPS Data Request Received
+1999-12-31 17:32:44,725 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:44,727 INFO     ,,
+1999-12-31 17:32:44,739 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:44,753 INFO     Send Position:57000 // Remaining:1364kB
+1999-12-31 17:32:45,715 INFO     GPS Data Request Received
+1999-12-31 17:32:45,733 ERROR    $GPGGA,235055.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:32:45,735 ERROR    Quality is Zero
+1999-12-31 17:32:45,738 INFO     $GPGGA,235055.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:32:45,740 INFO     ,,
+1999-12-31 17:32:45,752 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:45,766 INFO     Send Position:60000 // Remaining:1361kB
+1999-12-31 17:32:46,767 INFO     GPS Data Request Received
+1999-12-31 17:32:46,781 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:46,783 INFO     ,,
+1999-12-31 17:32:46,795 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:46,809 INFO     Send Position:63000 // Remaining:1358kB
+1999-12-31 17:32:47,758 INFO     GPS Data Request Received
+1999-12-31 17:32:47,779 INFO     $GPRMC,235055.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:32:47,781 INFO     ,,
+1999-12-31 17:32:47,793 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:47,807 INFO     Send Position:66000 // Remaining:1355kB
+1999-12-31 17:32:48,800 INFO     GPS Data Request Received
+1999-12-31 17:32:48,816 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:48,819 INFO     ,,
+1999-12-31 17:32:48,830 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:48,844 INFO     Send Position:69000 // Remaining:1352kB
+1999-12-31 17:32:49,805 INFO     GPS Data Request Received
+1999-12-31 17:32:49,823 ERROR    $GPGGA,235056.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:32:49,825 ERROR    Quality is Zero
+1999-12-31 17:32:49,827 INFO     $GPGGA,235056.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:32:49,830 INFO     ,,
+1999-12-31 17:32:49,841 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:49,856 INFO     Send Position:72000 // Remaining:1349kB
+1999-12-31 17:32:50,855 INFO     GPS Data Request Received
+1999-12-31 17:32:50,869 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:50,871 INFO     ,,
+1999-12-31 17:32:50,883 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:50,897 INFO     Send Position:75000 // Remaining:1346kB
+1999-12-31 17:32:51,865 INFO     GPS Data Request Received
+1999-12-31 17:32:51,886 INFO     $GPRMC,235056.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:32:51,888 INFO     ,,
+1999-12-31 17:32:51,900 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:51,914 INFO     Send Position:78000 // Remaining:1343kB
+1999-12-31 17:32:52,887 INFO     GPS Data Request Received
+1999-12-31 17:32:52,903 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:52,906 INFO     ,,
+1999-12-31 17:32:52,917 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:52,931 INFO     Send Position:81000 // Remaining:1341kB
+1999-12-31 17:32:53,895 INFO     GPS Data Request Received
+1999-12-31 17:32:53,912 ERROR    $GPGGA,235057.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:32:53,914 ERROR    Quality is Zero
+1999-12-31 17:32:53,917 INFO     $GPGGA,235057.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:32:53,920 INFO     ,,
+1999-12-31 17:32:53,931 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:53,945 INFO     Send Position:84000 // Remaining:1338kB
+1999-12-31 17:32:54,944 INFO     GPS Data Request Received
+1999-12-31 17:32:54,958 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:54,960 INFO     ,,
+1999-12-31 17:32:54,972 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:54,986 INFO     Send Position:87000 // Remaining:1335kB
+1999-12-31 17:32:55,938 INFO     GPS Data Request Received
+1999-12-31 17:32:55,958 INFO     $GPRMC,235057.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:32:55,961 INFO     ,,
+1999-12-31 17:32:55,972 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:55,987 INFO     Send Position:90000 // Remaining:1332kB
+1999-12-31 17:32:56,976 INFO     GPS Data Request Received
+1999-12-31 17:32:56,998 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:32:57,000 INFO     ,,
+1999-12-31 17:32:57,012 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:57,026 INFO     Send Position:93000 // Remaining:1329kB
+1999-12-31 17:32:57,985 INFO     GPS Data Request Received
+1999-12-31 17:32:58,002 ERROR    $GPGGA,235058.082,,,,,0,00,,,M,,M,,*7B
+
+1999-12-31 17:32:58,005 ERROR    Quality is Zero
+1999-12-31 17:32:58,007 INFO     $GPGGA,235058.082,,,,,0,00,,,M,,M,,*7B
+
+1999-12-31 17:32:58,009 INFO     ,,
+1999-12-31 17:32:58,021 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:58,035 INFO     Send Position:96000 // Remaining:1326kB
+1999-12-31 17:32:59,035 INFO     GPS Data Request Received
+1999-12-31 17:32:59,048 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:32:59,051 INFO     ,,
+1999-12-31 17:32:59,062 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:32:59,076 INFO     Send Position:99000 // Remaining:1323kB
+1999-12-31 17:33:00,028 INFO     GPS Data Request Received
+1999-12-31 17:33:00,049 INFO     $GPRMC,235058.082,V,,,,,0.00,0.00,120419,,,N*41
+
+1999-12-31 17:33:00,051 INFO     ,,
+1999-12-31 17:33:00,086 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:00,120 INFO     Send Position:102000 // Remaining:1320kB
+1999-12-31 17:33:01,085 INFO     GPS Data Request Received
+1999-12-31 17:33:01,101 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:01,104 INFO     ,,
+1999-12-31 17:33:01,115 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:01,129 INFO     Send Position:105000 // Remaining:1317kB
+1999-12-31 17:33:02,103 INFO     GPS Data Request Received
+1999-12-31 17:33:02,120 ERROR    $GPGGA,235059.082,,,,,0,00,,,M,,M,,*7A
+
+1999-12-31 17:33:02,122 ERROR    Quality is Zero
+1999-12-31 17:33:02,125 INFO     $GPGGA,235059.082,,,,,0,00,,,M,,M,,*7A
+
+1999-12-31 17:33:02,127 INFO     ,,
+1999-12-31 17:33:02,139 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:02,153 INFO     Send Position:108000 // Remaining:1314kB
+1999-12-31 17:33:03,124 INFO     GPS Data Request Received
+1999-12-31 17:33:03,138 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:03,140 INFO     ,,
+1999-12-31 17:33:03,152 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:03,166 INFO     Send Position:111000 // Remaining:1311kB
+1999-12-31 17:33:04,128 INFO     GPS Data Request Received
+1999-12-31 17:33:04,140 INFO     $GPGSV,1,1,01,17,,,25*79
+
+1999-12-31 17:33:04,142 INFO     ,,
+1999-12-31 17:33:04,154 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:04,168 INFO     Send Position:114000 // Remaining:1308kB
+1999-12-31 17:33:05,160 INFO     GPS Data Request Received
+1999-12-31 17:33:05,179 INFO     $GPRMC,235059.082,V,,,,,0.00,0.00,120419,,,N*40
+
+1999-12-31 17:33:05,181 INFO     ,,
+1999-12-31 17:33:05,191 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:05,203 INFO     Send Position:117000 // Remaining:1305kB
+1999-12-31 17:33:06,165 INFO     GPS Data Request Received
+1999-12-31 17:33:06,181 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:06,184 INFO     ,,
+1999-12-31 17:33:06,195 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:06,210 INFO     Send Position:120000 // Remaining:1302kB
+1999-12-31 17:33:07,217 INFO     GPS Data Request Received
+1999-12-31 17:33:07,234 ERROR    $GPGGA,235100.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:33:07,236 ERROR    Quality is Zero
+1999-12-31 17:33:07,239 INFO     $GPGGA,235100.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:33:07,241 INFO     ,,
+1999-12-31 17:33:07,253 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:07,267 INFO     Send Position:123000 // Remaining:1300kB
+1999-12-31 17:33:08,227 INFO     GPS Data Request Received
+1999-12-31 17:33:08,240 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:08,242 INFO     ,,
+1999-12-31 17:33:08,254 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:08,268 INFO     Send Position:126000 // Remaining:1297kB
+1999-12-31 17:33:09,247 INFO     GPS Data Request Received
+1999-12-31 17:33:09,267 INFO     $GPRMC,235100.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:33:09,270 INFO     ,,
+1999-12-31 17:33:09,281 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:09,295 INFO     Send Position:129000 // Remaining:1294kB
+1999-12-31 17:33:10,254 INFO     GPS Data Request Received
+1999-12-31 17:33:10,268 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:10,270 INFO     ,,
+1999-12-31 17:33:10,280 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:10,292 INFO     Send Position:132000 // Remaining:1291kB
+1999-12-31 17:33:11,305 INFO     GPS Data Request Received
+1999-12-31 17:33:11,322 ERROR    $GPGGA,235101.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:33:11,324 ERROR    Quality is Zero
+1999-12-31 17:33:11,326 INFO     $GPGGA,235101.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:33:11,329 INFO     ,,
+1999-12-31 17:33:11,340 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:11,355 INFO     Send Position:135000 // Remaining:1288kB
+1999-12-31 17:33:12,388 INFO     GPS Data Request Received
+1999-12-31 17:33:12,402 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:12,404 INFO     ,,
+1999-12-31 17:33:12,416 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:12,432 INFO     Send Position:138000 // Remaining:1285kB
+1999-12-31 17:33:13,385 INFO     GPS Data Request Received
+1999-12-31 17:33:13,409 INFO     $GPRMC,235101.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:33:13,412 INFO     ,,
+1999-12-31 17:33:13,427 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:13,445 INFO     Send Position:141000 // Remaining:1282kB
+1999-12-31 17:33:14,413 INFO     GPS Data Request Received
+1999-12-31 17:33:14,429 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:14,432 INFO     ,,
+1999-12-31 17:33:14,446 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:14,464 INFO     Send Position:144000 // Remaining:1279kB
+1999-12-31 17:33:15,424 INFO     GPS Data Request Received
+1999-12-31 17:33:15,444 ERROR    $GPGGA,235102.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:33:15,448 ERROR    Quality is Zero
+1999-12-31 17:33:15,450 INFO     $GPGGA,235102.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:33:15,453 INFO     ,,
+1999-12-31 17:33:15,468 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:15,485 INFO     Send Position:147000 // Remaining:1276kB
+1999-12-31 17:33:16,473 INFO     GPS Data Request Received
+1999-12-31 17:33:16,490 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:16,492 INFO     ,,
+1999-12-31 17:33:16,507 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:16,524 INFO     Send Position:150000 // Remaining:1273kB
+1999-12-31 17:33:17,486 INFO     GPS Data Request Received
+1999-12-31 17:33:17,510 INFO     $GPRMC,235102.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:33:17,513 INFO     ,,
+1999-12-31 17:33:17,528 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:17,545 INFO     Send Position:153000 // Remaining:1270kB
+1999-12-31 17:33:18,562 INFO     GPS Data Request Received
+1999-12-31 17:33:18,579 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:18,581 INFO     ,,
+1999-12-31 17:33:18,593 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:18,607 INFO     Send Position:156000 // Remaining:1267kB
+1999-12-31 17:33:19,585 INFO     GPS Data Request Received
+1999-12-31 17:33:19,602 ERROR    $GPGGA,235103.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:33:19,604 ERROR    Quality is Zero
+1999-12-31 17:33:19,606 INFO     $GPGGA,235103.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:33:19,609 INFO     ,,
+1999-12-31 17:33:19,621 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:19,635 INFO     Send Position:159000 // Remaining:1264kB
+1999-12-31 17:33:20,591 INFO     GPS Data Request Received
+1999-12-31 17:33:20,608 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:20,610 INFO     ,,
+1999-12-31 17:33:20,625 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:20,641 INFO     Send Position:162000 // Remaining:1261kB
+1999-12-31 17:33:21,639 INFO     GPS Data Request Received
+1999-12-31 17:33:21,659 INFO     $GPRMC,235103.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:33:21,661 INFO     ,,
+1999-12-31 17:33:21,673 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:21,688 INFO     Send Position:165000 // Remaining:1259kB
+1999-12-31 17:33:22,715 INFO     GPS Data Request Received
+1999-12-31 17:33:22,731 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:22,734 INFO     ,,
+1999-12-31 17:33:22,745 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:22,760 INFO     Send Position:168000 // Remaining:1256kB
+1999-12-31 17:33:23,716 INFO     GPS Data Request Received
+1999-12-31 17:33:23,733 ERROR    $GPGGA,235104.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:33:23,736 ERROR    Quality is Zero
+1999-12-31 17:33:23,738 INFO     $GPGGA,235104.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:33:23,740 INFO     ,,
+1999-12-31 17:33:23,753 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:23,767 INFO     Send Position:171000 // Remaining:1253kB
+1999-12-31 17:33:24,750 INFO     GPS Data Request Received
+1999-12-31 17:33:24,764 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:24,766 INFO     ,,
+1999-12-31 17:33:24,779 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:24,793 INFO     Send Position:174000 // Remaining:1250kB
+1999-12-31 17:33:25,755 INFO     GPS Data Request Received
+1999-12-31 17:33:25,768 INFO     $GPGSV,1,1,01,17,,,25*79
+
+1999-12-31 17:33:25,771 INFO     ,,
+1999-12-31 17:33:25,783 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:25,797 INFO     Send Position:177000 // Remaining:1247kB
+1999-12-31 17:33:26,806 INFO     GPS Data Request Received
+1999-12-31 17:33:26,826 INFO     $GPRMC,235104.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:33:26,829 INFO     ,,
+1999-12-31 17:33:26,841 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:26,855 INFO     Send Position:180000 // Remaining:1244kB
+1999-12-31 17:33:27,824 INFO     GPS Data Request Received
+1999-12-31 17:33:27,841 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:27,843 INFO     ,,
+1999-12-31 17:33:27,855 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:27,870 INFO     Send Position:183000 // Remaining:1241kB
+1999-12-31 17:33:28,838 INFO     GPS Data Request Received
+1999-12-31 17:33:28,855 ERROR    $GPGGA,235105.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:33:28,857 ERROR    Quality is Zero
+1999-12-31 17:33:28,860 INFO     $GPGGA,235105.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:33:28,862 INFO     ,,
+1999-12-31 17:33:28,874 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:28,888 INFO     Send Position:186000 // Remaining:1238kB
+1999-12-31 17:33:29,845 INFO     GPS Data Request Received
+1999-12-31 17:33:29,859 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:29,862 INFO     ,,
+1999-12-31 17:33:29,873 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:29,889 INFO     Send Position:189000 // Remaining:1235kB
+1999-12-31 17:33:30,895 INFO     GPS Data Request Received
+1999-12-31 17:33:30,916 INFO     $GPRMC,235105.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:33:30,918 INFO     ,,
+1999-12-31 17:33:30,930 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:30,945 INFO     Send Position:192000 // Remaining:1232kB
+1999-12-31 17:33:31,904 INFO     GPS Data Request Received
+1999-12-31 17:33:31,920 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:31,922 INFO     ,,
+1999-12-31 17:33:31,934 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:31,948 INFO     Send Position:195000 // Remaining:1229kB
+1999-12-31 17:33:32,934 INFO     GPS Data Request Received
+1999-12-31 17:33:32,951 ERROR    $GPGGA,235106.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:33:32,954 ERROR    Quality is Zero
+1999-12-31 17:33:32,956 INFO     $GPGGA,235106.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:33:32,958 INFO     ,,
+1999-12-31 17:33:32,970 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:32,985 INFO     Send Position:198000 // Remaining:1226kB
+1999-12-31 17:33:33,936 INFO     GPS Data Request Received
+1999-12-31 17:33:33,950 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:33,952 INFO     ,,
+1999-12-31 17:33:33,964 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:33,979 INFO     Send Position:201000 // Remaining:1223kB
+1999-12-31 17:33:34,986 INFO     GPS Data Request Received
+1999-12-31 17:33:35,006 INFO     $GPRMC,235106.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:33:35,009 INFO     ,,
+1999-12-31 17:33:35,020 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:35,035 INFO     Send Position:204000 // Remaining:1220kB
+1999-12-31 17:33:36,062 INFO     GPS Data Request Received
+1999-12-31 17:33:36,079 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:36,081 INFO     ,,
+1999-12-31 17:33:36,093 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:36,107 INFO     Send Position:207000 // Remaining:1218kB
+1999-12-31 17:33:37,072 INFO     GPS Data Request Received
+1999-12-31 17:33:37,089 ERROR    $GPGGA,235107.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:33:37,091 ERROR    Quality is Zero
+1999-12-31 17:33:37,094 INFO     $GPGGA,235107.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:33:37,096 INFO     ,,
+1999-12-31 17:33:37,108 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:37,122 INFO     Send Position:210000 // Remaining:1215kB
+1999-12-31 17:33:38,103 INFO     GPS Data Request Received
+1999-12-31 17:33:38,116 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:38,119 INFO     ,,
+1999-12-31 17:33:38,130 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:38,145 INFO     Send Position:213000 // Remaining:1212kB
+1999-12-31 17:33:39,103 INFO     GPS Data Request Received
+1999-12-31 17:33:39,123 INFO     $GPRMC,235107.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:33:39,126 INFO     ,,
+1999-12-31 17:33:39,138 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:39,152 INFO     Send Position:216000 // Remaining:1209kB
+1999-12-31 17:33:40,159 INFO     GPS Data Request Received
+1999-12-31 17:33:40,173 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:40,175 INFO     ,,
+1999-12-31 17:33:40,186 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:40,199 INFO     Send Position:219000 // Remaining:1206kB
+1999-12-31 17:33:41,144 INFO     GPS Data Request Received
+1999-12-31 17:33:41,161 ERROR    $GPGGA,235108.082,,,,,0,00,,,M,,M,,*7F
+
+1999-12-31 17:33:41,164 ERROR    Quality is Zero
+1999-12-31 17:33:41,166 INFO     $GPGGA,235108.082,,,,,0,00,,,M,,M,,*7F
+
+1999-12-31 17:33:41,169 INFO     ,,
+1999-12-31 17:33:41,180 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:41,195 INFO     Send Position:222000 // Remaining:1203kB
+1999-12-31 17:33:42,186 INFO     GPS Data Request Received
+1999-12-31 17:33:42,200 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:42,203 INFO     ,,
+1999-12-31 17:33:42,214 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:42,229 INFO     Send Position:225000 // Remaining:1200kB
+1999-12-31 17:33:43,198 INFO     GPS Data Request Received
+1999-12-31 17:33:43,218 INFO     $GPRMC,235108.082,V,,,,,0.00,0.00,120419,,,N*45
+
+1999-12-31 17:33:43,221 INFO     ,,
+1999-12-31 17:33:43,232 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:43,247 INFO     Send Position:228000 // Remaining:1197kB
+1999-12-31 17:33:44,242 INFO     GPS Data Request Received
+1999-12-31 17:33:44,258 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:44,260 INFO     ,,
+1999-12-31 17:33:44,272 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:44,287 INFO     Send Position:231000 // Remaining:1194kB
+1999-12-31 17:33:45,245 INFO     GPS Data Request Received
+1999-12-31 17:33:45,260 ERROR    $GPGGA,235109.082,,,,,0,00,,,M,,M,,*7E
+
+1999-12-31 17:33:45,262 ERROR    Quality is Zero
+1999-12-31 17:33:45,264 INFO     $GPGGA,235109.082,,,,,0,00,,,M,,M,,*7E
+
+1999-12-31 17:33:45,266 INFO     ,,
+1999-12-31 17:33:45,276 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:45,289 INFO     Send Position:234000 // Remaining:1191kB
+1999-12-31 17:33:46,278 INFO     GPS Data Request Received
+1999-12-31 17:33:46,291 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:46,294 INFO     ,,
+1999-12-31 17:33:46,306 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:46,320 INFO     Send Position:237000 // Remaining:1188kB
+1999-12-31 17:33:47,282 INFO     GPS Data Request Received
+1999-12-31 17:33:47,294 INFO     $GPGSV,1,1,01,17,,,24*78
+
+1999-12-31 17:33:47,297 INFO     ,,
+1999-12-31 17:33:47,308 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:47,323 INFO     Send Position:240000 // Remaining:1185kB
+1999-12-31 17:33:48,337 INFO     GPS Data Request Received
+1999-12-31 17:33:48,358 INFO     $GPRMC,235109.082,V,,,,,0.00,0.00,120419,,,N*44
+
+1999-12-31 17:33:48,360 INFO     ,,
+1999-12-31 17:33:48,372 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:48,386 INFO     Send Position:243000 // Remaining:1182kB
+1999-12-31 17:33:49,344 INFO     GPS Data Request Received
+1999-12-31 17:33:49,360 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:49,362 INFO     ,,
+1999-12-31 17:33:49,374 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:49,389 INFO     Send Position:246000 // Remaining:1179kB
+1999-12-31 17:33:50,363 INFO     GPS Data Request Received
+1999-12-31 17:33:50,381 ERROR    $GPGGA,235110.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:33:50,383 ERROR    Quality is Zero
+1999-12-31 17:33:50,385 INFO     $GPGGA,235110.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:33:50,388 INFO     ,,
+1999-12-31 17:33:50,401 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:50,420 INFO     Send Position:249000 // Remaining:1177kB
+1999-12-31 17:33:51,373 INFO     GPS Data Request Received
+1999-12-31 17:33:51,387 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:51,390 INFO     ,,
+1999-12-31 17:33:51,405 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:51,422 INFO     Send Position:252000 // Remaining:1174kB
+1999-12-31 17:33:52,422 INFO     GPS Data Request Received
+1999-12-31 17:33:52,444 INFO     $GPRMC,235110.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:33:52,447 INFO     ,,
+1999-12-31 17:33:52,462 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:52,480 INFO     Send Position:255000 // Remaining:1171kB
+1999-12-31 17:33:53,506 INFO     GPS Data Request Received
+1999-12-31 17:33:53,525 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:53,529 INFO     ,,
+1999-12-31 17:33:53,543 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:53,561 INFO     Send Position:258000 // Remaining:1168kB
+1999-12-31 17:33:54,515 INFO     GPS Data Request Received
+1999-12-31 17:33:54,536 ERROR    $GPGGA,235111.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:33:54,539 ERROR    Quality is Zero
+1999-12-31 17:33:54,542 INFO     $GPGGA,235111.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:33:54,545 INFO     ,,
+1999-12-31 17:33:54,559 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:54,577 INFO     Send Position:261000 // Remaining:1165kB
+1999-12-31 17:33:55,534 INFO     GPS Data Request Received
+1999-12-31 17:33:55,550 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:55,553 INFO     ,,
+1999-12-31 17:33:55,568 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:55,584 INFO     Send Position:264000 // Remaining:1162kB
+1999-12-31 17:33:56,540 INFO     GPS Data Request Received
+1999-12-31 17:33:56,565 INFO     $GPRMC,235111.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:33:56,568 INFO     ,,
+1999-12-31 17:33:56,582 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:56,601 INFO     Send Position:267000 // Remaining:1159kB
+1999-12-31 17:33:57,588 INFO     GPS Data Request Received
+1999-12-31 17:33:57,605 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:33:57,607 INFO     ,,
+1999-12-31 17:33:57,619 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:57,633 INFO     Send Position:270000 // Remaining:1156kB
+1999-12-31 17:33:58,603 INFO     GPS Data Request Received
+1999-12-31 17:33:58,621 ERROR    $GPGGA,235112.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:33:58,623 ERROR    Quality is Zero
+1999-12-31 17:33:58,625 INFO     $GPGGA,235112.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:33:58,628 INFO     ,,
+1999-12-31 17:33:58,639 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:58,654 INFO     Send Position:273000 // Remaining:1153kB
+1999-12-31 17:33:59,624 INFO     GPS Data Request Received
+1999-12-31 17:33:59,638 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:33:59,640 INFO     ,,
+1999-12-31 17:33:59,652 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:33:59,666 INFO     Send Position:276000 // Remaining:1150kB
+1999-12-31 17:34:00,628 INFO     GPS Data Request Received
+1999-12-31 17:34:00,649 INFO     $GPRMC,235112.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:34:00,652 INFO     ,,
+1999-12-31 17:34:00,663 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:00,678 INFO     Send Position:279000 // Remaining:1147kB
+1999-12-31 17:34:01,678 INFO     GPS Data Request Received
+1999-12-31 17:34:01,694 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:01,697 INFO     ,,
+1999-12-31 17:34:01,709 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:01,723 INFO     Send Position:282000 // Remaining:1144kB
+1999-12-31 17:34:02,684 INFO     GPS Data Request Received
+1999-12-31 17:34:02,701 ERROR    $GPGGA,235113.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:34:02,704 ERROR    Quality is Zero
+1999-12-31 17:34:02,706 INFO     $GPGGA,235113.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:34:02,708 INFO     ,,
+1999-12-31 17:34:02,720 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:02,735 INFO     Send Position:285000 // Remaining:1141kB
+1999-12-31 17:34:03,714 INFO     GPS Data Request Received
+1999-12-31 17:34:03,728 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:03,730 INFO     ,,
+1999-12-31 17:34:03,742 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:03,756 INFO     Send Position:288000 // Remaining:1138kB
+1999-12-31 17:34:04,720 INFO     GPS Data Request Received
+1999-12-31 17:34:04,740 INFO     $GPRMC,235113.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:34:04,742 INFO     ,,
+1999-12-31 17:34:04,754 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:04,769 INFO     Send Position:291000 // Remaining:1135kB
+1999-12-31 17:34:05,770 INFO     GPS Data Request Received
+1999-12-31 17:34:05,786 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:05,788 INFO     ,,
+1999-12-31 17:34:05,800 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:05,814 INFO     Send Position:294000 // Remaining:1133kB
+1999-12-31 17:34:06,774 INFO     GPS Data Request Received
+1999-12-31 17:34:06,791 ERROR    $GPGGA,235114.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:34:06,794 ERROR    Quality is Zero
+1999-12-31 17:34:06,796 INFO     $GPGGA,235114.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:34:06,798 INFO     ,,
+1999-12-31 17:34:06,810 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:06,825 INFO     Send Position:297000 // Remaining:1130kB
+1999-12-31 17:34:07,804 INFO     GPS Data Request Received
+1999-12-31 17:34:07,818 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:07,820 INFO     ,,
+1999-12-31 17:34:07,832 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:07,846 INFO     Send Position:300000 // Remaining:1127kB
+1999-12-31 17:34:08,814 INFO     GPS Data Request Received
+1999-12-31 17:34:08,827 INFO     $GPGSV,1,1,01,17,,,24*78
+
+1999-12-31 17:34:08,829 INFO     ,,
+1999-12-31 17:34:08,841 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:08,855 INFO     Send Position:303000 // Remaining:1124kB
+1999-12-31 17:34:09,859 INFO     GPS Data Request Received
+1999-12-31 17:34:09,880 INFO     $GPRMC,235114.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:34:09,882 INFO     ,,
+1999-12-31 17:34:09,894 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:09,908 INFO     Send Position:306000 // Remaining:1121kB
+1999-12-31 17:34:10,873 INFO     GPS Data Request Received
+1999-12-31 17:34:10,889 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:10,891 INFO     ,,
+1999-12-31 17:34:10,903 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:10,918 INFO     Send Position:309000 // Remaining:1118kB
+1999-12-31 17:34:11,892 INFO     GPS Data Request Received
+1999-12-31 17:34:11,909 ERROR    $GPGGA,235115.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:34:11,912 ERROR    Quality is Zero
+1999-12-31 17:34:11,914 INFO     $GPGGA,235115.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:34:11,916 INFO     ,,
+1999-12-31 17:34:11,928 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:11,942 INFO     Send Position:312000 // Remaining:1115kB
+1999-12-31 17:34:12,899 INFO     GPS Data Request Received
+1999-12-31 17:34:12,913 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:12,915 INFO     ,,
+1999-12-31 17:34:12,927 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:12,941 INFO     Send Position:315000 // Remaining:1112kB
+1999-12-31 17:34:13,954 INFO     GPS Data Request Received
+1999-12-31 17:34:13,974 INFO     $GPRMC,235115.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:34:13,977 INFO     ,,
+1999-12-31 17:34:13,989 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:14,003 INFO     Send Position:318000 // Remaining:1109kB
+1999-12-31 17:34:14,949 INFO     GPS Data Request Received
+1999-12-31 17:34:14,965 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:14,968 INFO     ,,
+1999-12-31 17:34:14,980 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:14,994 INFO     Send Position:321000 // Remaining:1106kB
+1999-12-31 17:34:15,984 INFO     GPS Data Request Received
+1999-12-31 17:34:16,001 ERROR    $GPGGA,235116.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:34:16,003 ERROR    Quality is Zero
+1999-12-31 17:34:16,005 INFO     $GPGGA,235116.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:34:16,008 INFO     ,,
+1999-12-31 17:34:16,020 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:16,034 INFO     Send Position:324000 // Remaining:1103kB
+1999-12-31 17:34:16,989 INFO     GPS Data Request Received
+1999-12-31 17:34:17,002 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:17,005 INFO     ,,
+1999-12-31 17:34:17,017 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:17,031 INFO     Send Position:327000 // Remaining:1100kB
+1999-12-31 17:34:18,038 INFO     GPS Data Request Received
+1999-12-31 17:34:18,059 INFO     $GPRMC,235116.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:34:18,061 INFO     ,,
+1999-12-31 17:34:18,073 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:18,088 INFO     Send Position:330000 // Remaining:1097kB
+1999-12-31 17:34:19,054 INFO     GPS Data Request Received
+1999-12-31 17:34:19,071 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:19,073 INFO     ,,
+1999-12-31 17:34:19,085 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:19,099 INFO     Send Position:333000 // Remaining:1094kB
+1999-12-31 17:34:22,750 INFO     try number:1
+1999-12-31 17:34:22,763 INFO     resending last @333000
+1999-12-31 17:34:22,776 INFO     ours:6b6dbce8ead2bff68ffa8d9ed115ef80
+1999-12-31 17:34:22,788 INFO     GPS Data Request Received
+1999-12-31 17:34:22,805 ERROR    $GPGGA,235117.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:34:22,807 ERROR    Quality is Zero
+1999-12-31 17:34:22,810 INFO     $GPGGA,235117.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:34:22,812 INFO     ,,
+1999-12-31 17:34:22,823 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:22,838 INFO     Send Position:333000 // Remaining:1094kB
+1999-12-31 17:34:23,845 INFO     GPS Data Request Received
+1999-12-31 17:34:23,859 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:23,861 INFO     ,,
+1999-12-31 17:34:23,873 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:23,888 INFO     Send Position:336000 // Remaining:1092kB
+1999-12-31 17:34:24,854 INFO     GPS Data Request Received
+1999-12-31 17:34:24,874 INFO     $GPRMC,235117.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:34:24,877 INFO     ,,
+1999-12-31 17:34:24,889 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:24,903 INFO     Send Position:339000 // Remaining:1089kB
+1999-12-31 17:34:25,876 INFO     GPS Data Request Received
+1999-12-31 17:34:25,892 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:25,895 INFO     ,,
+1999-12-31 17:34:25,906 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:25,921 INFO     Send Position:342000 // Remaining:1086kB
+1999-12-31 17:34:26,886 INFO     GPS Data Request Received
+1999-12-31 17:34:26,903 ERROR    $GPGGA,235118.082,,,,,0,00,,,M,,M,,*7E
+
+1999-12-31 17:34:26,906 ERROR    Quality is Zero
+1999-12-31 17:34:26,908 INFO     $GPGGA,235118.082,,,,,0,00,,,M,,M,,*7E
+
+1999-12-31 17:34:26,910 INFO     ,,
+1999-12-31 17:34:26,922 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:26,937 INFO     Send Position:345000 // Remaining:1083kB
+1999-12-31 17:34:27,936 INFO     GPS Data Request Received
+1999-12-31 17:34:27,949 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:27,952 INFO     ,,
+1999-12-31 17:34:27,963 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:27,977 INFO     Send Position:348000 // Remaining:1080kB
+1999-12-31 17:34:28,943 INFO     GPS Data Request Received
+1999-12-31 17:34:28,963 INFO     $GPRMC,235118.082,V,,,,,0.00,0.00,120419,,,N*44
+
+1999-12-31 17:34:28,966 INFO     ,,
+1999-12-31 17:34:28,978 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:28,992 INFO     Send Position:351000 // Remaining:1077kB
+1999-12-31 17:34:29,975 INFO     GPS Data Request Received
+1999-12-31 17:34:29,991 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:29,994 INFO     ,,
+1999-12-31 17:34:30,006 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:30,020 INFO     Send Position:354000 // Remaining:1074kB
+1999-12-31 17:34:30,975 INFO     GPS Data Request Received
+1999-12-31 17:34:30,992 ERROR    $GPGGA,235119.082,,,,,0,00,,,M,,M,,*7F
+
+1999-12-31 17:34:30,995 ERROR    Quality is Zero
+1999-12-31 17:34:30,997 INFO     $GPGGA,235119.082,,,,,0,00,,,M,,M,,*7F
+
+1999-12-31 17:34:31,000 INFO     ,,
+1999-12-31 17:34:31,011 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:31,025 INFO     Send Position:357000 // Remaining:1071kB
+1999-12-31 17:34:32,025 INFO     GPS Data Request Received
+1999-12-31 17:34:32,038 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:32,041 INFO     ,,
+1999-12-31 17:34:32,053 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:32,067 INFO     Send Position:360000 // Remaining:1068kB
+1999-12-31 17:34:33,009 INFO     GPS Data Request Received
+1999-12-31 17:34:33,022 INFO     $GPGSV,1,1,01,17,,,22*7E
+
+1999-12-31 17:34:33,024 INFO     ,,
+1999-12-31 17:34:33,036 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:33,051 INFO     Send Position:363000 // Remaining:1065kB
+1999-12-31 17:34:34,010 INFO     GPS Data Request Received
+1999-12-31 17:34:34,030 INFO     $GPRMC,235119.082,V,,,,,0.00,0.00,120419,,,N*45
+
+1999-12-31 17:34:34,033 INFO     ,,
+1999-12-31 17:34:34,044 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:34,059 INFO     Send Position:366000 // Remaining:1062kB
+1999-12-31 17:34:37,782 INFO     try number:1
+1999-12-31 17:34:37,795 INFO     resending last @366000
+1999-12-31 17:34:37,807 INFO     ours:c1529911700a906c7ad009b67fd0a757
+1999-12-31 17:34:37,819 INFO     GPS Data Request Received
+1999-12-31 17:34:37,835 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:37,838 INFO     ,,
+1999-12-31 17:34:37,850 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:37,864 INFO     Send Position:366000 // Remaining:1062kB
+1999-12-31 17:34:38,817 INFO     GPS Data Request Received
+1999-12-31 17:34:38,834 ERROR    $GPGGA,235120.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:34:38,836 ERROR    Quality is Zero
+1999-12-31 17:34:38,839 INFO     $GPGGA,235120.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:34:38,841 INFO     ,,
+1999-12-31 17:34:38,853 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:38,868 INFO     Send Position:369000 // Remaining:1059kB
+1999-12-31 17:34:39,866 INFO     GPS Data Request Received
+1999-12-31 17:34:39,880 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:39,882 INFO     ,,
+1999-12-31 17:34:39,894 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:39,908 INFO     Send Position:372000 // Remaining:1056kB
+1999-12-31 17:34:40,871 INFO     GPS Data Request Received
+1999-12-31 17:34:40,891 INFO     $GPRMC,235120.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:34:40,893 INFO     ,,
+1999-12-31 17:34:40,905 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:40,920 INFO     Send Position:375000 // Remaining:1053kB
+1999-12-31 17:34:41,921 INFO     GPS Data Request Received
+1999-12-31 17:34:41,937 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:41,939 INFO     ,,
+1999-12-31 17:34:41,951 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:41,965 INFO     Send Position:378000 // Remaining:1051kB
+1999-12-31 17:34:42,918 INFO     GPS Data Request Received
+1999-12-31 17:34:42,935 ERROR    $GPGGA,235121.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:34:42,938 ERROR    Quality is Zero
+1999-12-31 17:34:42,940 INFO     $GPGGA,235121.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:34:42,942 INFO     ,,
+1999-12-31 17:34:42,954 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:42,969 INFO     Send Position:381000 // Remaining:1048kB
+1999-12-31 17:34:43,955 INFO     GPS Data Request Received
+1999-12-31 17:34:43,969 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:43,971 INFO     ,,
+1999-12-31 17:34:43,983 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:43,997 INFO     Send Position:384000 // Remaining:1045kB
+1999-12-31 17:34:44,939 INFO     GPS Data Request Received
+1999-12-31 17:34:44,959 INFO     $GPRMC,235121.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:34:44,961 INFO     ,,
+1999-12-31 17:34:44,973 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:44,988 INFO     Send Position:387000 // Remaining:1042kB
+1999-12-31 17:34:45,936 INFO     GPS Data Request Received
+1999-12-31 17:34:45,952 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:45,954 INFO     ,,
+1999-12-31 17:34:45,966 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:45,981 INFO     Send Position:390000 // Remaining:1039kB
+1999-12-31 17:34:46,967 INFO     GPS Data Request Received
+1999-12-31 17:34:46,984 ERROR    $GPGGA,235122.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:34:46,987 ERROR    Quality is Zero
+1999-12-31 17:34:46,989 INFO     $GPGGA,235122.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:34:46,991 INFO     ,,
+1999-12-31 17:34:47,003 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:47,018 INFO     Send Position:393000 // Remaining:1036kB
+1999-12-31 17:34:47,955 INFO     GPS Data Request Received
+1999-12-31 17:34:47,969 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:47,971 INFO     ,,
+1999-12-31 17:34:47,983 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:47,998 INFO     Send Position:396000 // Remaining:1033kB
+1999-12-31 17:34:48,951 INFO     GPS Data Request Received
+1999-12-31 17:34:48,972 INFO     $GPRMC,235122.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:34:48,974 INFO     ,,
+1999-12-31 17:34:48,986 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:49,001 INFO     Send Position:399000 // Remaining:1030kB
+1999-12-31 17:34:49,982 INFO     GPS Data Request Received
+1999-12-31 17:34:49,998 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:50,000 INFO     ,,
+1999-12-31 17:34:50,012 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:50,026 INFO     Send Position:402000 // Remaining:1027kB
+1999-12-31 17:34:50,989 INFO     GPS Data Request Received
+1999-12-31 17:34:51,006 ERROR    $GPGGA,235123.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:34:51,009 ERROR    Quality is Zero
+1999-12-31 17:34:51,011 INFO     $GPGGA,235123.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:34:51,013 INFO     ,,
+1999-12-31 17:34:51,025 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:51,040 INFO     Send Position:405000 // Remaining:1024kB
+1999-12-31 17:34:52,038 INFO     GPS Data Request Received
+1999-12-31 17:34:52,052 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:52,055 INFO     ,,
+1999-12-31 17:34:52,066 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:52,081 INFO     Send Position:408000 // Remaining:1021kB
+1999-12-31 17:34:53,034 INFO     GPS Data Request Received
+1999-12-31 17:34:53,055 INFO     $GPRMC,235123.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:34:53,057 INFO     ,,
+1999-12-31 17:34:53,069 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:53,083 INFO     Send Position:411000 // Remaining:1018kB
+1999-12-31 17:34:54,074 INFO     GPS Data Request Received
+1999-12-31 17:34:54,090 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:54,093 INFO     ,,
+1999-12-31 17:34:54,105 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:54,119 INFO     Send Position:414000 // Remaining:1015kB
+1999-12-31 17:34:55,090 INFO     GPS Data Request Received
+1999-12-31 17:34:55,126 ERROR    $GPGGA,235124.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:34:55,128 ERROR    Quality is Zero
+1999-12-31 17:34:55,130 INFO     $GPGGA,235124.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:34:55,132 INFO     ,,
+1999-12-31 17:34:55,163 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:55,188 INFO     Send Position:417000 // Remaining:1012kB
+1999-12-31 17:34:56,156 INFO     GPS Data Request Received
+1999-12-31 17:34:56,170 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:34:56,172 INFO     ,,
+1999-12-31 17:34:56,184 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:56,198 INFO     Send Position:420000 // Remaining:1010kB
+1999-12-31 17:34:57,205 INFO     GPS Data Request Received
+1999-12-31 17:34:57,218 INFO     $GPGSV,1,1,01,17,,,24*78
+
+1999-12-31 17:34:57,220 INFO     ,,
+1999-12-31 17:34:57,232 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:57,246 INFO     Send Position:423000 // Remaining:1007kB
+1999-12-31 17:34:58,190 INFO     GPS Data Request Received
+1999-12-31 17:34:58,210 INFO     $GPRMC,235124.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:34:58,213 INFO     ,,
+1999-12-31 17:34:58,224 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:58,239 INFO     Send Position:426000 // Remaining:1004kB
+1999-12-31 17:34:59,238 INFO     GPS Data Request Received
+1999-12-31 17:34:59,254 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:34:59,256 INFO     ,,
+1999-12-31 17:34:59,269 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:34:59,283 INFO     Send Position:429000 // Remaining:1001kB
+1999-12-31 17:35:00,244 INFO     GPS Data Request Received
+1999-12-31 17:35:00,259 ERROR    $GPGGA,235125.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:35:00,261 ERROR    Quality is Zero
+1999-12-31 17:35:00,263 INFO     $GPGGA,235125.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:35:00,265 INFO     ,,
+1999-12-31 17:35:00,275 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:00,288 INFO     Send Position:432000 // Remaining:998kB
+1999-12-31 17:35:01,295 INFO     GPS Data Request Received
+1999-12-31 17:35:01,309 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:01,311 INFO     ,,
+1999-12-31 17:35:01,323 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:01,337 INFO     Send Position:435000 // Remaining:995kB
+1999-12-31 17:35:02,304 INFO     GPS Data Request Received
+1999-12-31 17:35:02,324 INFO     $GPRMC,235125.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:35:02,326 INFO     ,,
+1999-12-31 17:35:02,339 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:02,353 INFO     Send Position:438000 // Remaining:992kB
+1999-12-31 17:35:03,333 INFO     GPS Data Request Received
+1999-12-31 17:35:03,349 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:03,352 INFO     ,,
+1999-12-31 17:35:03,363 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:03,379 INFO     Send Position:441000 // Remaining:989kB
+1999-12-31 17:35:04,336 INFO     GPS Data Request Received
+1999-12-31 17:35:04,353 ERROR    $GPGGA,235126.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:35:04,355 ERROR    Quality is Zero
+1999-12-31 17:35:04,358 INFO     $GPGGA,235126.082,,,,,0,00,,,M,,M,,*73
+
+1999-12-31 17:35:04,360 INFO     ,,
+1999-12-31 17:35:04,372 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:04,388 INFO     Send Position:444000 // Remaining:986kB
+1999-12-31 17:35:05,384 INFO     GPS Data Request Received
+1999-12-31 17:35:05,397 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:05,400 INFO     ,,
+1999-12-31 17:35:05,412 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:05,427 INFO     Send Position:447000 // Remaining:983kB
+1999-12-31 17:35:06,467 INFO     GPS Data Request Received
+1999-12-31 17:35:06,497 INFO     $GPRMC,235126.082,V,,,,,0.00,0.00,120419,,,N*49
+
+1999-12-31 17:35:06,502 INFO     ,,
+1999-12-31 17:35:06,523 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:06,548 INFO     Send Position:450000 // Remaining:980kB
+1999-12-31 17:35:07,537 INFO     GPS Data Request Received
+1999-12-31 17:35:07,572 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:07,574 INFO     ,,
+1999-12-31 17:35:07,593 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:07,613 INFO     Send Position:453000 // Remaining:977kB
+1999-12-31 17:35:08,613 INFO     GPS Data Request Received
+1999-12-31 17:35:08,641 ERROR    $GPGGA,235127.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:35:08,643 ERROR    Quality is Zero
+1999-12-31 17:35:08,645 INFO     $GPGGA,235127.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:35:08,646 INFO     ,,
+1999-12-31 17:35:08,665 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:08,686 INFO     Send Position:456000 // Remaining:974kB
+1999-12-31 17:35:09,699 INFO     GPS Data Request Received
+1999-12-31 17:35:09,721 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:09,723 INFO     ,,
+1999-12-31 17:35:09,732 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:09,753 INFO     Send Position:459000 // Remaining:971kB
+1999-12-31 17:35:10,765 INFO     GPS Data Request Received
+1999-12-31 17:35:10,781 INFO     $GPRMC,235127.082,V,,,,,0.00,0.00,120419,,,N*48
+
+1999-12-31 17:35:10,783 INFO     ,,
+1999-12-31 17:35:10,792 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:10,802 INFO     Send Position:462000 // Remaining:968kB
+1999-12-31 17:35:11,755 INFO     GPS Data Request Received
+1999-12-31 17:35:11,768 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:11,771 INFO     ,,
+1999-12-31 17:35:11,780 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:11,792 INFO     Send Position:465000 // Remaining:966kB
+1999-12-31 17:35:12,735 INFO     GPS Data Request Received
+1999-12-31 17:35:12,749 ERROR    $GPGGA,235128.082,,,,,0,00,,,M,,M,,*7D
+
+1999-12-31 17:35:12,751 ERROR    Quality is Zero
+1999-12-31 17:35:12,753 INFO     $GPGGA,235128.082,,,,,0,00,,,M,,M,,*7D
+
+1999-12-31 17:35:12,755 INFO     ,,
+1999-12-31 17:35:12,765 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:12,778 INFO     Send Position:468000 // Remaining:963kB
+1999-12-31 17:35:13,784 INFO     GPS Data Request Received
+1999-12-31 17:35:13,796 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:13,798 INFO     ,,
+1999-12-31 17:35:13,808 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:13,820 INFO     Send Position:471000 // Remaining:960kB
+1999-12-31 17:35:14,771 INFO     GPS Data Request Received
+1999-12-31 17:35:14,788 INFO     $GPRMC,235128.082,V,,,,,0.00,0.00,120419,,,N*47
+
+1999-12-31 17:35:14,790 INFO     ,,
+1999-12-31 17:35:14,800 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:14,812 INFO     Send Position:474000 // Remaining:957kB
+1999-12-31 17:35:15,811 INFO     GPS Data Request Received
+1999-12-31 17:35:15,825 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:15,826 INFO     ,,
+1999-12-31 17:35:15,836 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:15,849 INFO     Send Position:477000 // Remaining:954kB
+1999-12-31 17:35:16,889 INFO     GPS Data Request Received
+1999-12-31 17:35:16,904 ERROR    $GPGGA,235129.082,,,,,0,00,,,M,,M,,*7C
+
+1999-12-31 17:35:16,906 ERROR    Quality is Zero
+1999-12-31 17:35:16,908 INFO     $GPGGA,235129.082,,,,,0,00,,,M,,M,,*7C
+
+1999-12-31 17:35:16,910 INFO     ,,
+1999-12-31 17:35:16,920 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:16,932 INFO     Send Position:480000 // Remaining:951kB
+1999-12-31 17:35:17,876 INFO     GPS Data Request Received
+1999-12-31 17:35:17,887 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:17,889 INFO     ,,
+1999-12-31 17:35:17,899 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:17,911 INFO     Send Position:483000 // Remaining:948kB
+1999-12-31 17:35:18,856 INFO     GPS Data Request Received
+1999-12-31 17:35:18,868 INFO     $GPGSV,1,1,01,17,,,19*76
+
+1999-12-31 17:35:18,870 INFO     ,,
+1999-12-31 17:35:18,880 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:18,892 INFO     Send Position:486000 // Remaining:945kB
+1999-12-31 17:35:19,857 INFO     GPS Data Request Received
+1999-12-31 17:35:19,874 INFO     $GPRMC,235129.082,V,,,,,0.00,0.00,120419,,,N*46
+
+1999-12-31 17:35:19,876 INFO     ,,
+1999-12-31 17:35:19,886 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:19,898 INFO     Send Position:489000 // Remaining:942kB
+1999-12-31 17:35:20,885 INFO     GPS Data Request Received
+1999-12-31 17:35:20,899 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:20,901 INFO     ,,
+1999-12-31 17:35:20,911 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:20,923 INFO     Send Position:492000 // Remaining:939kB
+1999-12-31 17:35:21,870 INFO     GPS Data Request Received
+1999-12-31 17:35:21,884 ERROR    $GPGGA,235130.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:35:21,886 ERROR    Quality is Zero
+1999-12-31 17:35:21,888 INFO     $GPGGA,235130.082,,,,,0,00,,,M,,M,,*74
+
+1999-12-31 17:35:21,890 INFO     ,,
+1999-12-31 17:35:21,900 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:21,912 INFO     Send Position:495000 // Remaining:936kB
+1999-12-31 17:35:22,849 INFO     GPS Data Request Received
+1999-12-31 17:35:22,860 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:22,862 INFO     ,,
+1999-12-31 17:35:22,872 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:22,884 INFO     Send Position:498000 // Remaining:933kB
+1999-12-31 17:35:23,903 INFO     GPS Data Request Received
+1999-12-31 17:35:23,921 INFO     $GPRMC,235130.082,V,,,,,0.00,0.00,120419,,,N*4E
+
+1999-12-31 17:35:23,923 INFO     ,,
+1999-12-31 17:35:23,933 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:23,945 INFO     Send Position:501000 // Remaining:930kB
+1999-12-31 17:35:24,884 INFO     GPS Data Request Received
+1999-12-31 17:35:24,898 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:24,900 INFO     ,,
+1999-12-31 17:35:24,910 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:24,922 INFO     Send Position:504000 // Remaining:927kB
+1999-12-31 17:35:25,863 INFO     GPS Data Request Received
+1999-12-31 17:35:25,878 ERROR    $GPGGA,235131.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:35:25,880 ERROR    Quality is Zero
+1999-12-31 17:35:25,882 INFO     $GPGGA,235131.082,,,,,0,00,,,M,,M,,*75
+
+1999-12-31 17:35:25,884 INFO     ,,
+1999-12-31 17:35:25,893 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:25,906 INFO     Send Position:507000 // Remaining:925kB
+1999-12-31 17:35:26,851 INFO     GPS Data Request Received
+1999-12-31 17:35:26,863 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:26,865 INFO     ,,
+1999-12-31 17:35:26,875 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:26,886 INFO     Send Position:510000 // Remaining:922kB
+1999-12-31 17:35:27,867 INFO     GPS Data Request Received
+1999-12-31 17:35:27,885 INFO     $GPRMC,235131.082,V,,,,,0.00,0.00,120419,,,N*4F
+
+1999-12-31 17:35:27,887 INFO     ,,
+1999-12-31 17:35:27,896 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:27,909 INFO     Send Position:513000 // Remaining:919kB
+1999-12-31 17:35:28,850 INFO     GPS Data Request Received
+1999-12-31 17:35:28,864 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:28,866 INFO     ,,
+1999-12-31 17:35:28,876 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:28,888 INFO     Send Position:516000 // Remaining:916kB
+1999-12-31 17:35:29,833 INFO     GPS Data Request Received
+1999-12-31 17:35:29,848 ERROR    $GPGGA,235132.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:35:29,850 ERROR    Quality is Zero
+1999-12-31 17:35:29,852 INFO     $GPGGA,235132.082,,,,,0,00,,,M,,M,,*76
+
+1999-12-31 17:35:29,853 INFO     ,,
+1999-12-31 17:35:29,863 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:29,875 INFO     Send Position:519000 // Remaining:913kB
+1999-12-31 17:35:30,814 INFO     GPS Data Request Received
+1999-12-31 17:35:30,826 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:30,828 INFO     ,,
+1999-12-31 17:35:30,838 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:30,850 INFO     Send Position:522000 // Remaining:910kB
+1999-12-31 17:35:31,864 INFO     GPS Data Request Received
+1999-12-31 17:35:31,881 INFO     $GPRMC,235132.082,V,,,,,0.00,0.00,120419,,,N*4C
+
+1999-12-31 17:35:31,883 INFO     ,,
+1999-12-31 17:35:31,893 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:31,905 INFO     Send Position:525000 // Remaining:907kB
+1999-12-31 17:35:32,855 INFO     GPS Data Request Received
+1999-12-31 17:35:32,869 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:32,871 INFO     ,,
+1999-12-31 17:35:32,881 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:32,893 INFO     Send Position:528000 // Remaining:904kB
+1999-12-31 17:35:33,854 INFO     GPS Data Request Received
+1999-12-31 17:35:33,869 ERROR    $GPGGA,235133.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:35:33,871 ERROR    Quality is Zero
+1999-12-31 17:35:33,873 INFO     $GPGGA,235133.082,,,,,0,00,,,M,,M,,*77
+
+1999-12-31 17:35:33,875 INFO     ,,
+1999-12-31 17:35:33,885 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:33,897 INFO     Send Position:531000 // Remaining:901kB
+1999-12-31 17:35:34,883 INFO     GPS Data Request Received
+1999-12-31 17:35:34,895 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:34,897 INFO     ,,
+1999-12-31 17:35:34,907 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:34,919 INFO     Send Position:534000 // Remaining:898kB
+1999-12-31 17:35:35,869 INFO     GPS Data Request Received
+1999-12-31 17:35:35,886 INFO     $GPRMC,235133.082,V,,,,,0.00,0.00,120419,,,N*4D
+
+1999-12-31 17:35:35,889 INFO     ,,
+1999-12-31 17:35:35,899 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:35,910 INFO     Send Position:537000 // Remaining:895kB
+1999-12-31 17:35:36,864 INFO     GPS Data Request Received
+1999-12-31 17:35:36,878 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:36,880 INFO     ,,
+1999-12-31 17:35:36,890 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:36,902 INFO     Send Position:540000 // Remaining:892kB
+1999-12-31 17:35:37,892 INFO     GPS Data Request Received
+1999-12-31 17:35:37,907 ERROR    $GPGGA,235134.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:35:37,909 ERROR    Quality is Zero
+1999-12-31 17:35:37,911 INFO     $GPGGA,235134.082,,,,,0,00,,,M,,M,,*70
+
+1999-12-31 17:35:37,913 INFO     ,,
+1999-12-31 17:35:37,923 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:37,934 INFO     Send Position:543000 // Remaining:889kB
+1999-12-31 17:35:38,969 INFO     GPS Data Request Received
+1999-12-31 17:35:38,980 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:38,982 INFO     ,,
+1999-12-31 17:35:38,992 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:39,004 INFO     Send Position:546000 // Remaining:886kB
+1999-12-31 17:35:39,957 INFO     GPS Data Request Received
+1999-12-31 17:35:39,973 INFO     $GPGSV,1,1,01,17,,,19*76
+
+1999-12-31 17:35:39,975 INFO     ,,
+1999-12-31 17:35:39,985 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:39,997 INFO     Send Position:549000 // Remaining:884kB
+1999-12-31 17:35:40,959 INFO     GPS Data Request Received
+1999-12-31 17:35:40,976 INFO     $GPRMC,235134.082,V,,,,,0.00,0.00,120419,,,N*4A
+
+1999-12-31 17:35:40,978 INFO     ,,
+1999-12-31 17:35:40,988 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:41,000 INFO     Send Position:552000 // Remaining:881kB
+1999-12-31 17:35:41,983 INFO     GPS Data Request Received
+1999-12-31 17:35:41,996 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:41,998 INFO     ,,
+1999-12-31 17:35:42,008 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:42,020 INFO     Send Position:555000 // Remaining:878kB
+1999-12-31 17:35:42,974 INFO     GPS Data Request Received
+1999-12-31 17:35:42,989 ERROR    $GPGGA,235135.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:35:42,991 ERROR    Quality is Zero
+1999-12-31 17:35:42,993 INFO     $GPGGA,235135.082,,,,,0,00,,,M,,M,,*71
+
+1999-12-31 17:35:42,995 INFO     ,,
+1999-12-31 17:35:43,005 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:43,017 INFO     Send Position:558000 // Remaining:875kB
+1999-12-31 17:35:44,014 INFO     GPS Data Request Received
+1999-12-31 17:35:44,026 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:35:44,028 INFO     ,,
+1999-12-31 17:35:44,038 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:44,050 INFO     Send Position:561000 // Remaining:872kB
+1999-12-31 17:35:45,004 INFO     GPS Data Request Received
+1999-12-31 17:35:45,021 INFO     $GPRMC,235135.082,V,,,,,0.00,0.00,120419,,,N*4B
+
+1999-12-31 17:35:45,023 INFO     ,,
+1999-12-31 17:35:45,033 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:45,045 INFO     Send Position:564000 // Remaining:869kB
+1999-12-31 17:35:55,696 INFO     try number:1
+1999-12-31 17:35:55,705 INFO     resending last @564000
+1999-12-31 17:35:55,715 INFO     ours:508fdf810b79b4e88b8dc5e1fec1e04a
+1999-12-31 17:35:55,723 INFO     GPS Data Request Received
+1999-12-31 17:35:55,735 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+1999-12-31 17:35:55,737 INFO     ,,
+1999-12-31 17:35:55,746 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:35:55,756 INFO     Send Position:564000 // Remaining:869kB
+1999-12-31 17:36:11,489 INFO     try number:2
+1999-12-31 17:36:11,502 INFO     resending last @564000
+1999-12-31 17:36:11,514 INFO     ours:508fdf810b79b4e88b8dc5e1fec1e04a
+1999-12-31 17:36:11,526 INFO     GPS Data Request Received
+1999-12-31 17:36:11,543 ERROR    $GPGGA,235136.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:36:11,545 ERROR    Quality is Zero
+1999-12-31 17:36:11,547 INFO     $GPGGA,235136.082,,,,,0,00,,,M,,M,,*72
+
+1999-12-31 17:36:11,549 INFO     ,,
+1999-12-31 17:36:11,559 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:36:11,571 INFO     Send Position:564000 // Remaining:869kB
+1999-12-31 17:36:27,288 INFO     try number:3
+1999-12-31 17:36:27,299 INFO     resending last @564000
+1999-12-31 17:36:27,309 INFO     ours:508fdf810b79b4e88b8dc5e1fec1e04a
+1999-12-31 17:36:27,319 INFO     GPS Data Request Received
+1999-12-31 17:36:27,331 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+1999-12-31 17:36:27,333 INFO     ,,
+1999-12-31 17:36:27,343 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+1999-12-31 17:36:27,355 INFO     Send Position:564000 // Remaining:869kB
+1999-12-31 17:36:32,586 INFO     error out
+1999-12-31 17:36:32,601 INFO     Image Send Complete
+1999-12-31 17:36:32,611 INFO     Send Time =247.887006998
+1999-12-31 17:36:32,926 INFO     Camera Settings Read
+1999-12-31 17:36:33,658 INFO     (1639,772) photo saved
+1999-12-31 17:36:33,731 INFO     RT:715Watching Serial
+1999-12-31 17:36:38,747 INFO     RT:721Watching Serial
+1999-12-31 17:36:43,765 INFO     RT:726Watching Serial
+1999-12-31 17:36:48,777 INFO     RT:731Watching Serial
+1999-12-31 17:36:53,797 INFO     RT:736Watching Serial

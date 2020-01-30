@@ -1,0 +1,629 @@
+2018-05-11 13:30:04,413 INFO     Initial Log
+2018-05-11 13:30:04,427 INFO     PiRunTimeData.txt Initial
+2018-05-11 13:30:04,429 INFO     Camera Inits
+2018-05-11 13:30:04,436 INFO     Startime @1526067004.43
+2018-05-11 13:30:04,942 INFO     RT:0Watching Serial
+2018-05-11 13:30:10,380 INFO     Camera Settings Read
+2018-05-11 13:30:11,205 INFO     (650,450) photo saved
+2018-05-11 13:30:11,250 INFO     RT:6Watching Serial
+2018-05-11 13:30:16,260 INFO     RT:11Watching Serial
+2018-05-11 13:30:21,270 INFO     RT:16Watching Serial
+2018-05-11 13:30:23,854 INFO     Time Sync Request Recieved
+2018-05-11 13:30:23,862 INFO     RT:19Watching Serial
+2018-05-11 13:30:24,054 INFO     Ping Request Received
+2018-05-11 13:30:24,277 INFO     Ping Received
+2018-05-11 13:30:24,495 INFO     Ping Received
+2018-05-11 13:30:24,708 INFO     Ping Received
+2018-05-11 13:30:24,924 INFO     Ping Received
+2018-05-11 13:30:25,137 INFO     Ping Received
+2018-05-11 13:30:25,354 INFO     Ping Received
+2018-05-11 13:30:25,565 INFO     Ping Received
+2018-05-11 13:30:25,783 INFO     Ping Received
+2018-05-11 13:30:26,005 INFO     Ping Received
+2018-05-11 13:30:26,211 INFO     RT:21Watching Serial
+2018-05-11 13:30:30,626 INFO     Attempting to update camera settings
+2018-05-11 13:30:35,746 INFO     New Camera Settings Received
+2018-05-11 13:30:36,113 INFO     Camera Settings Read
+2018-05-11 13:30:36,824 INFO     (650,450) photo saved
+2018-05-11 13:30:36,889 INFO     RT:32Watching Serial
+2018-05-11 13:30:41,908 INFO     RT:37Watching Serial
+2018-05-11 13:30:46,934 INFO     RT:42Watching Serial
+2018-05-11 13:30:47,166 INFO     Attempting to update camera settings
+2018-05-11 13:30:52,278 INFO     New Camera Settings Received
+2018-05-11 13:30:52,603 INFO     Camera Settings Read
+2018-05-11 13:30:53,309 INFO     (306,115) photo saved
+2018-05-11 13:30:53,374 INFO     RT:48Watching Serial
+2018-05-11 13:30:58,395 INFO     RT:53Watching Serial
+2018-05-11 13:31:02,537 INFO     Attempting to update camera settings
+2018-05-11 13:31:07,745 INFO     New Camera Settings Received
+2018-05-11 13:31:08,067 INFO     Camera Settings Read
+2018-05-11 13:31:08,798 INFO     (1373,630) photo saved
+2018-05-11 13:31:08,853 INFO     RT:64Watching Serial
+2018-05-11 13:31:11,440 INFO     Attempting to send camera settings
+2018-05-11 13:31:11,454 INFO     Camera Settings Sent
+2018-05-11 13:31:11,468 INFO     RT:67Watching Serial
+2018-05-11 13:31:16,487 INFO     RT:72Watching Serial
+2018-05-11 13:31:20,463 INFO     Send Image Command Received
+2018-05-11 13:31:20,478 INFO     Sending:image0003_b.jpg
+2018-05-11 13:31:20,545 INFO     775524: Image Size
+2018-05-11 13:31:20,556 INFO     photo request received
+2018-05-11 13:31:20,566 INFO     GPS Data Request Received
+2018-05-11 13:31:20,574 INFO     ,0,00,,,M,,M,,*77
+
+2018-05-11 13:31:20,576 INFO     0.00,0.00000,0.0000
+2018-05-11 13:31:20,586 INFO     formatted: 0.00,0.00000,0.0000,aaaaaaaaa
+2018-05-11 13:31:20,597 INFO     Send Position:0 // Remaining:757kB
+2018-05-11 13:31:22,610 INFO     GPS Data Request Received
+2018-05-11 13:31:22,623 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:22,626 INFO     0.00,0.00000,0.0000
+2018-05-11 13:31:22,635 INFO     formatted: 0.00,0.00000,0.0000,aaaaaaaaa
+2018-05-11 13:31:22,647 INFO     Send Position:3000 // Remaining:754kB
+2018-05-11 13:31:23,595 INFO     GPS Data Request Received
+2018-05-11 13:31:23,612 INFO     $GPGSV,1,1,02,19,,,25,17,,,27*77
+
+2018-05-11 13:31:23,615 INFO     0.00,0.00000,0.0000
+2018-05-11 13:31:23,626 INFO     formatted: 0.00,0.00000,0.0000,aaaaaaaaa
+2018-05-11 13:31:23,638 INFO     Send Position:6000 // Remaining:751kB
+2018-05-11 13:31:24,594 INFO     GPS Data Request Received
+2018-05-11 13:31:24,614 INFO     $GPRMC,000746.082,V,,,,,0.00,0.00,130419,,,N*4C
+
+2018-05-11 13:31:24,617 INFO     0.00,0.00000,0.0000
+2018-05-11 13:31:24,627 INFO     formatted: 0.00,0.00000,0.0000,aaaaaaaaa
+2018-05-11 13:31:24,639 INFO     Send Position:9000 // Remaining:748kB
+2018-05-11 13:31:25,625 INFO     GPS Data Request Received
+2018-05-11 13:31:25,641 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:25,644 INFO     0.00,0.00000,0.0000
+2018-05-11 13:31:25,653 INFO     formatted: 0.00,0.00000,0.0000,aaaaaaaaa
+2018-05-11 13:31:25,666 INFO     Send Position:12000 // Remaining:745kB
+2018-05-11 13:31:26,606 INFO     GPS Data Request Received
+2018-05-11 13:31:26,624 ERROR    $GPGGA,000747.082,,,,,0,00,,,M,,M,,*76
+
+2018-05-11 13:31:26,626 ERROR    Quality is Zero
+2018-05-11 13:31:26,629 INFO     $GPGGA,000747.082,,,,,0,00,,,M,,M,,*76
+
+2018-05-11 13:31:26,631 INFO     ,,
+2018-05-11 13:31:26,641 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:26,654 INFO     Send Position:15000 // Remaining:742kB
+2018-05-11 13:31:27,608 INFO     GPS Data Request Received
+2018-05-11 13:31:27,621 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:27,624 INFO     ,,
+2018-05-11 13:31:27,634 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:27,646 INFO     Send Position:18000 // Remaining:739kB
+2018-05-11 13:31:28,635 INFO     GPS Data Request Received
+2018-05-11 13:31:28,656 INFO     $GPRMC,000747.082,V,,,,,0.00,0.00,130419,,,N*4D
+
+2018-05-11 13:31:28,658 INFO     ,,
+2018-05-11 13:31:28,668 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:28,681 INFO     Send Position:21000 // Remaining:736kB
+2018-05-11 13:31:29,636 INFO     GPS Data Request Received
+2018-05-11 13:31:29,653 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:29,655 INFO     ,,
+2018-05-11 13:31:29,665 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:29,679 INFO     Send Position:24000 // Remaining:733kB
+2018-05-11 13:31:30,674 INFO     GPS Data Request Received
+2018-05-11 13:31:30,692 ERROR    $GPGGA,000748.082,,,,,0,00,,,M,,M,,*79
+
+2018-05-11 13:31:30,694 ERROR    Quality is Zero
+2018-05-11 13:31:30,696 INFO     $GPGGA,000748.082,,,,,0,00,,,M,,M,,*79
+
+2018-05-11 13:31:30,699 INFO     ,,
+2018-05-11 13:31:30,710 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:30,723 INFO     Send Position:27000 // Remaining:730kB
+2018-05-11 13:31:31,676 INFO     GPS Data Request Received
+2018-05-11 13:31:31,690 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:31,692 INFO     ,,
+2018-05-11 13:31:31,703 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:31,717 INFO     Send Position:30000 // Remaining:728kB
+2018-05-11 13:31:32,752 INFO     GPS Data Request Received
+2018-05-11 13:31:32,772 INFO     $GPRMC,000748.082,V,,,,,0.00,0.00,130419,,,N*42
+
+2018-05-11 13:31:32,774 INFO     ,,
+2018-05-11 13:31:32,785 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:32,799 INFO     Send Position:33000 // Remaining:725kB
+2018-05-11 13:31:33,801 INFO     GPS Data Request Received
+2018-05-11 13:31:33,817 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:33,820 INFO     ,,
+2018-05-11 13:31:33,830 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:33,844 INFO     Send Position:36000 // Remaining:722kB
+2018-05-11 13:31:34,812 INFO     GPS Data Request Received
+2018-05-11 13:31:34,830 ERROR    $GPGGA,000749.082,,,,,0,00,,,M,,M,,*78
+
+2018-05-11 13:31:34,832 ERROR    Quality is Zero
+2018-05-11 13:31:34,834 INFO     $GPGGA,000749.082,,,,,0,00,,,M,,M,,*78
+
+2018-05-11 13:31:34,837 INFO     ,,
+2018-05-11 13:31:34,848 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:34,862 INFO     Send Position:39000 // Remaining:719kB
+2018-05-11 13:31:35,837 INFO     GPS Data Request Received
+2018-05-11 13:31:35,851 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:35,853 INFO     ,,
+2018-05-11 13:31:35,864 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:35,878 INFO     Send Position:42000 // Remaining:716kB
+2018-05-11 13:31:36,841 INFO     GPS Data Request Received
+2018-05-11 13:31:36,861 INFO     $GPRMC,000749.082,V,,,,,0.00,0.00,130419,,,N*43
+
+2018-05-11 13:31:36,864 INFO     ,,
+2018-05-11 13:31:36,875 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:36,889 INFO     Send Position:45000 // Remaining:713kB
+2018-05-11 13:31:37,891 INFO     GPS Data Request Received
+2018-05-11 13:31:37,907 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:37,909 INFO     ,,
+2018-05-11 13:31:37,920 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:37,934 INFO     Send Position:48000 // Remaining:710kB
+2018-05-11 13:31:38,886 INFO     GPS Data Request Received
+2018-05-11 13:31:38,903 ERROR    $GPGGA,000750.082,,,,,0,00,,,M,,M,,*70
+
+2018-05-11 13:31:38,905 ERROR    Quality is Zero
+2018-05-11 13:31:38,908 INFO     $GPGGA,000750.082,,,,,0,00,,,M,,M,,*70
+
+2018-05-11 13:31:38,910 INFO     ,,
+2018-05-11 13:31:38,921 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:38,934 INFO     Send Position:51000 // Remaining:707kB
+2018-05-11 13:31:39,923 INFO     GPS Data Request Received
+2018-05-11 13:31:39,936 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:39,939 INFO     ,,
+2018-05-11 13:31:39,950 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:39,964 INFO     Send Position:54000 // Remaining:704kB
+2018-05-11 13:31:40,914 INFO     GPS Data Request Received
+2018-05-11 13:31:40,946 INFO     $GPRMC,000750.082,V,,,,,0.00,0.00,130419,,,N*4B
+
+2018-05-11 13:31:40,948 INFO     ,,
+2018-05-11 13:31:40,981 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:41,005 INFO     Send Position:57000 // Remaining:701kB
+2018-05-11 13:31:41,980 INFO     GPS Data Request Received
+2018-05-11 13:31:41,996 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:41,998 INFO     ,,
+2018-05-11 13:31:42,010 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:42,024 INFO     Send Position:60000 // Remaining:698kB
+2018-05-11 13:31:42,974 INFO     GPS Data Request Received
+2018-05-11 13:31:42,991 ERROR    $GPGGA,000751.082,,,,,0,00,,,M,,M,,*71
+
+2018-05-11 13:31:42,994 ERROR    Quality is Zero
+2018-05-11 13:31:42,996 INFO     $GPGGA,000751.082,,,,,0,00,,,M,,M,,*71
+
+2018-05-11 13:31:42,998 INFO     ,,
+2018-05-11 13:31:43,010 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:43,024 INFO     Send Position:63000 // Remaining:695kB
+2018-05-11 13:31:44,011 INFO     GPS Data Request Received
+2018-05-11 13:31:44,024 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:44,027 INFO     ,,
+2018-05-11 13:31:44,038 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:44,052 INFO     Send Position:66000 // Remaining:692kB
+2018-05-11 13:31:44,993 INFO     GPS Data Request Received
+2018-05-11 13:31:45,008 INFO     $GPGSV,1,1,02,19,,,26,17,,,27*74
+
+2018-05-11 13:31:45,010 INFO     ,,
+2018-05-11 13:31:45,022 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:45,036 INFO     Send Position:69000 // Remaining:689kB
+2018-05-11 13:31:45,997 INFO     GPS Data Request Received
+2018-05-11 13:31:46,036 INFO     $GPRMC,000751.082,V,,,,,0.00,0.00,130419,,,N*4A
+
+2018-05-11 13:31:46,049 INFO     ,,
+2018-05-11 13:31:46,061 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:46,083 INFO     Send Position:72000 // Remaining:687kB
+2018-05-11 13:31:47,043 INFO     GPS Data Request Received
+2018-05-11 13:31:47,059 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:47,061 INFO     ,,
+2018-05-11 13:31:47,073 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:47,087 INFO     Send Position:75000 // Remaining:684kB
+2018-05-11 13:31:48,054 INFO     GPS Data Request Received
+2018-05-11 13:31:48,071 ERROR    $GPGGA,000752.082,,,,,0,00,,,M,,M,,*72
+
+2018-05-11 13:31:48,074 ERROR    Quality is Zero
+2018-05-11 13:31:48,076 INFO     $GPGGA,000752.082,,,,,0,00,,,M,,M,,*72
+
+2018-05-11 13:31:48,078 INFO     ,,
+2018-05-11 13:31:48,090 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:48,104 INFO     Send Position:78000 // Remaining:681kB
+2018-05-11 13:31:49,082 INFO     GPS Data Request Received
+2018-05-11 13:31:49,096 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:49,098 INFO     ,,
+2018-05-11 13:31:49,110 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:49,124 INFO     Send Position:81000 // Remaining:678kB
+2018-05-11 13:31:50,071 INFO     GPS Data Request Received
+2018-05-11 13:31:50,092 INFO     $GPRMC,000752.082,V,,,,,0.00,0.00,130419,,,N*49
+
+2018-05-11 13:31:50,094 INFO     ,,
+2018-05-11 13:31:50,105 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:50,119 INFO     Send Position:84000 // Remaining:675kB
+2018-05-11 13:31:51,117 INFO     GPS Data Request Received
+2018-05-11 13:31:51,131 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:51,133 INFO     ,,
+2018-05-11 13:31:51,143 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:51,155 INFO     Send Position:87000 // Remaining:672kB
+2018-05-11 13:31:52,122 INFO     GPS Data Request Received
+2018-05-11 13:31:52,139 ERROR    $GPGGA,000753.082,,,,,0,00,,,M,,M,,*73
+
+2018-05-11 13:31:52,141 ERROR    Quality is Zero
+2018-05-11 13:31:52,144 INFO     $GPGGA,000753.082,,,,,0,00,,,M,,M,,*73
+
+2018-05-11 13:31:52,146 INFO     ,,
+2018-05-11 13:31:52,157 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:52,171 INFO     Send Position:90000 // Remaining:669kB
+2018-05-11 13:31:53,171 INFO     GPS Data Request Received
+2018-05-11 13:31:53,185 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:53,187 INFO     ,,
+2018-05-11 13:31:53,198 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:53,213 INFO     Send Position:93000 // Remaining:666kB
+2018-05-11 13:31:54,179 INFO     GPS Data Request Received
+2018-05-11 13:31:54,199 INFO     $GPRMC,000753.082,V,,,,,0.00,0.00,130419,,,N*48
+
+2018-05-11 13:31:54,202 INFO     ,,
+2018-05-11 13:31:54,213 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:54,228 INFO     Send Position:96000 // Remaining:663kB
+2018-05-11 13:31:55,207 INFO     GPS Data Request Received
+2018-05-11 13:31:55,223 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:55,226 INFO     ,,
+2018-05-11 13:31:55,237 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:55,251 INFO     Send Position:99000 // Remaining:660kB
+2018-05-11 13:31:56,214 INFO     GPS Data Request Received
+2018-05-11 13:31:56,232 ERROR    $GPGGA,000754.082,,,,,0,00,,,M,,M,,*74
+
+2018-05-11 13:31:56,234 ERROR    Quality is Zero
+2018-05-11 13:31:56,237 INFO     $GPGGA,000754.082,,,,,0,00,,,M,,M,,*74
+
+2018-05-11 13:31:56,239 INFO     ,,
+2018-05-11 13:31:56,250 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:56,264 INFO     Send Position:102000 // Remaining:657kB
+2018-05-11 13:31:57,261 INFO     GPS Data Request Received
+2018-05-11 13:31:57,274 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:31:57,277 INFO     ,,
+2018-05-11 13:31:57,288 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:57,302 INFO     Send Position:105000 // Remaining:654kB
+2018-05-11 13:31:58,257 INFO     GPS Data Request Received
+2018-05-11 13:31:58,277 INFO     $GPRMC,000754.082,V,,,,,0.00,0.00,130419,,,N*4F
+
+2018-05-11 13:31:58,279 INFO     ,,
+2018-05-11 13:31:58,291 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:58,305 INFO     Send Position:108000 // Remaining:651kB
+2018-05-11 13:31:59,293 INFO     GPS Data Request Received
+2018-05-11 13:31:59,309 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:31:59,311 INFO     ,,
+2018-05-11 13:31:59,322 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:31:59,336 INFO     Send Position:111000 // Remaining:648kB
+2018-05-11 13:32:00,300 INFO     GPS Data Request Received
+2018-05-11 13:32:00,317 ERROR    $GPGGA,000754.302,,,,,0,00,,,M,,M,,*7F
+
+2018-05-11 13:32:00,319 ERROR    Quality is Zero
+2018-05-11 13:32:00,322 INFO     $GPGGA,000754.302,,,,,0,00,,,M,,M,,*7F
+
+2018-05-11 13:32:00,324 INFO     ,,
+2018-05-11 13:32:00,335 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:00,350 INFO     Send Position:114000 // Remaining:646kB
+2018-05-11 13:32:01,354 INFO     GPS Data Request Received
+2018-05-11 13:32:01,368 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:01,370 INFO     ,,
+2018-05-11 13:32:01,381 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:01,396 INFO     Send Position:117000 // Remaining:643kB
+2018-05-11 13:32:02,353 INFO     GPS Data Request Received
+2018-05-11 13:32:02,374 INFO     $GPRMC,000754.302,V,,,,,0.00,0.00,130419,,,N*44
+
+2018-05-11 13:32:02,377 INFO     ,,
+2018-05-11 13:32:02,391 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:02,409 INFO     Send Position:120000 // Remaining:640kB
+2018-05-11 13:32:03,381 INFO     GPS Data Request Received
+2018-05-11 13:32:03,399 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:03,402 INFO     ,,
+2018-05-11 13:32:03,416 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:03,434 INFO     Send Position:123000 // Remaining:637kB
+2018-05-11 13:32:04,391 INFO     GPS Data Request Received
+2018-05-11 13:32:04,411 ERROR    $GPGGA,000755.302,,,,,0,00,,,M,,M,,*7E
+
+2018-05-11 13:32:04,414 ERROR    Quality is Zero
+2018-05-11 13:32:04,417 INFO     $GPGGA,000755.302,,,,,0,00,,,M,,M,,*7E
+
+2018-05-11 13:32:04,420 INFO     ,,
+2018-05-11 13:32:04,434 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:04,452 INFO     Send Position:126000 // Remaining:634kB
+2018-05-11 13:32:05,440 INFO     GPS Data Request Received
+2018-05-11 13:32:05,455 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:05,459 INFO     ,,
+2018-05-11 13:32:05,473 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:05,491 INFO     Send Position:129000 // Remaining:631kB
+2018-05-11 13:32:06,454 INFO     GPS Data Request Received
+2018-05-11 13:32:06,471 INFO     $GPGSV,1,1,02,19,,,26,17,,,28*7B
+
+2018-05-11 13:32:06,474 INFO     ,,
+2018-05-11 13:32:06,489 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:06,506 INFO     Send Position:132000 // Remaining:628kB
+2018-05-11 13:32:07,475 INFO     GPS Data Request Received
+2018-05-11 13:32:07,499 INFO     $GPRMC,000755.302,V,,,,,0.00,0.00,130419,,,N*45
+
+2018-05-11 13:32:07,502 INFO     ,,
+2018-05-11 13:32:07,516 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:07,534 INFO     Send Position:135000 // Remaining:625kB
+2018-05-11 13:32:08,501 INFO     GPS Data Request Received
+2018-05-11 13:32:08,520 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:08,523 INFO     ,,
+2018-05-11 13:32:08,538 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:08,556 INFO     Send Position:138000 // Remaining:622kB
+2018-05-11 13:32:09,528 INFO     GPS Data Request Received
+2018-05-11 13:32:09,547 ERROR    $GPGGA,000756.302,,,,,0,00,,,M,,M,,*7D
+
+2018-05-11 13:32:09,550 ERROR    Quality is Zero
+2018-05-11 13:32:09,552 INFO     $GPGGA,000756.302,,,,,0,00,,,M,,M,,*7D
+
+2018-05-11 13:32:09,555 INFO     ,,
+2018-05-11 13:32:09,566 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:09,580 INFO     Send Position:141000 // Remaining:619kB
+2018-05-11 13:32:10,543 INFO     GPS Data Request Received
+2018-05-11 13:32:10,557 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:10,559 INFO     ,,
+2018-05-11 13:32:10,570 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:10,585 INFO     Send Position:144000 // Remaining:616kB
+2018-05-11 13:32:11,564 INFO     GPS Data Request Received
+2018-05-11 13:32:11,585 INFO     $GPRMC,000756.302,V,,,,,0.00,0.00,130419,,,N*46
+
+2018-05-11 13:32:11,587 INFO     ,,
+2018-05-11 13:32:11,599 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:11,613 INFO     Send Position:147000 // Remaining:613kB
+2018-05-11 13:32:12,566 INFO     GPS Data Request Received
+2018-05-11 13:32:12,583 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:12,585 INFO     ,,
+2018-05-11 13:32:12,597 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:12,611 INFO     Send Position:150000 // Remaining:610kB
+2018-05-11 13:32:13,616 INFO     GPS Data Request Received
+2018-05-11 13:32:13,634 ERROR    $GPGGA,000757.302,,,,,0,00,,,M,,M,,*7C
+
+2018-05-11 13:32:13,636 ERROR    Quality is Zero
+2018-05-11 13:32:13,638 INFO     $GPGGA,000757.302,,,,,0,00,,,M,,M,,*7C
+
+2018-05-11 13:32:13,641 INFO     ,,
+2018-05-11 13:32:13,652 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:13,666 INFO     Send Position:153000 // Remaining:607kB
+2018-05-11 13:32:14,694 INFO     GPS Data Request Received
+2018-05-11 13:32:14,708 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:14,711 INFO     ,,
+2018-05-11 13:32:14,722 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:14,736 INFO     Send Position:156000 // Remaining:605kB
+2018-05-11 13:32:15,690 INFO     GPS Data Request Received
+2018-05-11 13:32:15,711 INFO     $GPRMC,000757.302,V,,,,,0.00,0.00,130419,,,N*47
+
+2018-05-11 13:32:15,713 INFO     ,,
+2018-05-11 13:32:15,725 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:15,739 INFO     Send Position:159000 // Remaining:602kB
+2018-05-11 13:32:16,734 INFO     GPS Data Request Received
+2018-05-11 13:32:16,751 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:16,753 INFO     ,,
+2018-05-11 13:32:16,765 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:16,779 INFO     Send Position:162000 // Remaining:599kB
+2018-05-11 13:32:17,733 INFO     GPS Data Request Received
+2018-05-11 13:32:17,751 ERROR    $GPGGA,000758.302,,,,,0,00,,,M,,M,,*73
+
+2018-05-11 13:32:17,753 ERROR    Quality is Zero
+2018-05-11 13:32:17,756 INFO     $GPGGA,000758.302,,,,,0,00,,,M,,M,,*73
+
+2018-05-11 13:32:17,758 INFO     ,,
+2018-05-11 13:32:17,770 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:17,784 INFO     Send Position:165000 // Remaining:596kB
+2018-05-11 13:32:18,783 INFO     GPS Data Request Received
+2018-05-11 13:32:18,797 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:18,799 INFO     ,,
+2018-05-11 13:32:18,811 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:18,825 INFO     Send Position:168000 // Remaining:593kB
+2018-05-11 13:32:19,795 INFO     GPS Data Request Received
+2018-05-11 13:32:19,816 INFO     $GPRMC,000758.302,V,,,,,0.00,0.00,130419,,,N*48
+
+2018-05-11 13:32:19,818 INFO     ,,
+2018-05-11 13:32:19,830 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:19,844 INFO     Send Position:171000 // Remaining:590kB
+2018-05-11 13:32:20,814 INFO     GPS Data Request Received
+2018-05-11 13:32:20,830 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:20,833 INFO     ,,
+2018-05-11 13:32:20,845 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:20,859 INFO     Send Position:174000 // Remaining:587kB
+2018-05-11 13:32:21,803 INFO     GPS Data Request Received
+2018-05-11 13:32:21,820 ERROR    $GPGGA,000759.302,,,,,0,00,,,M,,M,,*72
+
+2018-05-11 13:32:21,822 ERROR    Quality is Zero
+2018-05-11 13:32:21,825 INFO     $GPGGA,000759.302,,,,,0,00,,,M,,M,,*72
+
+2018-05-11 13:32:21,827 INFO     ,,
+2018-05-11 13:32:21,839 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:21,853 INFO     Send Position:177000 // Remaining:584kB
+2018-05-11 13:32:22,807 INFO     GPS Data Request Received
+2018-05-11 13:32:22,821 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:22,824 INFO     ,,
+2018-05-11 13:32:22,835 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:22,850 INFO     Send Position:180000 // Remaining:581kB
+2018-05-11 13:32:23,832 INFO     GPS Data Request Received
+2018-05-11 13:32:23,853 INFO     $GPRMC,000759.302,V,,,,,0.00,0.00,130419,,,N*49
+
+2018-05-11 13:32:23,856 INFO     ,,
+2018-05-11 13:32:23,867 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:23,882 INFO     Send Position:183000 // Remaining:578kB
+2018-05-11 13:32:24,836 INFO     GPS Data Request Received
+2018-05-11 13:32:24,853 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:24,855 INFO     ,,
+2018-05-11 13:32:24,867 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:24,881 INFO     Send Position:186000 // Remaining:575kB
+2018-05-11 13:32:25,886 INFO     GPS Data Request Received
+2018-05-11 13:32:25,903 ERROR    $GPGGA,000800.087,,,,,0,00,,,M,,M,,*7F
+
+2018-05-11 13:32:25,906 ERROR    Quality is Zero
+2018-05-11 13:32:25,908 INFO     $GPGGA,000800.087,,,,,0,00,,,M,,M,,*7F
+
+2018-05-11 13:32:25,910 INFO     ,,
+2018-05-11 13:32:25,922 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:25,942 INFO     Send Position:189000 // Remaining:572kB
+2018-05-11 13:32:26,895 INFO     GPS Data Request Received
+2018-05-11 13:32:26,909 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:26,911 INFO     ,,
+2018-05-11 13:32:26,923 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:26,937 INFO     Send Position:192000 // Remaining:569kB
+2018-05-11 13:32:27,921 INFO     GPS Data Request Received
+2018-05-11 13:32:27,936 INFO     $GPGSV,1,1,02,19,,,27,17,,,27*75
+
+2018-05-11 13:32:27,939 INFO     ,,
+2018-05-11 13:32:27,950 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:27,965 INFO     Send Position:195000 // Remaining:566kB
+2018-05-11 13:32:28,926 INFO     GPS Data Request Received
+2018-05-11 13:32:28,946 INFO     $GPRMC,000800.087,V,,,,,0.00,0.00,130419,,,N*44
+
+2018-05-11 13:32:28,948 INFO     ,,
+2018-05-11 13:32:28,961 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:28,975 INFO     Send Position:198000 // Remaining:563kB
+2018-05-11 13:32:29,976 INFO     GPS Data Request Received
+2018-05-11 13:32:29,992 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:29,994 INFO     ,,
+2018-05-11 13:32:30,006 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:30,020 INFO     Send Position:201000 // Remaining:561kB
+2018-05-11 13:32:30,992 INFO     GPS Data Request Received
+2018-05-11 13:32:31,028 ERROR    $GPGGA,000801.087,,,,,0,00,,,M,,M,,*7E
+
+2018-05-11 13:32:31,029 ERROR    Quality is Zero
+2018-05-11 13:32:31,031 INFO     $GPGGA,000801.087,,,,,0,00,,,M,,M,,*7E
+
+2018-05-11 13:32:31,033 INFO     ,,
+2018-05-11 13:32:31,054 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:31,080 INFO     Send Position:204000 // Remaining:558kB
+2018-05-11 13:32:32,026 INFO     GPS Data Request Received
+2018-05-11 13:32:32,040 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:32,042 INFO     ,,
+2018-05-11 13:32:32,054 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:32,068 INFO     Send Position:207000 // Remaining:555kB
+2018-05-11 13:32:33,015 INFO     GPS Data Request Received
+2018-05-11 13:32:33,035 INFO     $GPRMC,000801.087,V,,,,,0.00,0.00,130419,,,N*45
+
+2018-05-11 13:32:33,038 INFO     ,,
+2018-05-11 13:32:33,050 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:33,064 INFO     Send Position:210000 // Remaining:552kB
+2018-05-11 13:32:34,065 INFO     GPS Data Request Received
+2018-05-11 13:32:34,081 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:34,084 INFO     ,,
+2018-05-11 13:32:34,095 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:34,110 INFO     Send Position:213000 // Remaining:549kB
+2018-05-11 13:32:35,070 INFO     GPS Data Request Received
+2018-05-11 13:32:35,087 ERROR    $GPGGA,000802.087,,,,,0,00,,,M,,M,,*7D
+
+2018-05-11 13:32:35,090 ERROR    Quality is Zero
+2018-05-11 13:32:35,092 INFO     $GPGGA,000802.087,,,,,0,00,,,M,,M,,*7D
+
+2018-05-11 13:32:35,094 INFO     ,,
+2018-05-11 13:32:35,106 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:35,120 INFO     Send Position:216000 // Remaining:546kB
+2018-05-11 13:32:36,105 INFO     GPS Data Request Received
+2018-05-11 13:32:36,129 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:36,131 INFO     ,,
+2018-05-11 13:32:36,151 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:36,174 INFO     Send Position:219000 // Remaining:543kB
+2018-05-11 13:32:37,115 INFO     GPS Data Request Received
+2018-05-11 13:32:37,154 INFO     $GPRMC,000802.087,V,,,,,0.00,0.00,130419,,,N*46
+
+2018-05-11 13:32:37,156 INFO     ,,
+2018-05-11 13:32:37,167 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:37,199 INFO     Send Position:222000 // Remaining:540kB
+2018-05-11 13:32:38,159 INFO     GPS Data Request Received
+2018-05-11 13:32:38,188 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:38,190 INFO     ,,
+2018-05-11 13:32:38,211 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:38,233 INFO     Send Position:225000 // Remaining:537kB
+2018-05-11 13:32:39,241 INFO     GPS Data Request Received
+2018-05-11 13:32:39,268 ERROR    $GPGGA,000803.087,,,,,0,00,,,M,,M,,*7C
+
+2018-05-11 13:32:39,270 ERROR    Quality is Zero
+2018-05-11 13:32:39,272 INFO     $GPGGA,000803.087,,,,,0,00,,,M,,M,,*7C
+
+2018-05-11 13:32:39,274 INFO     ,,
+2018-05-11 13:32:39,294 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:39,316 INFO     Send Position:228000 // Remaining:534kB
+2018-05-11 13:32:40,307 INFO     GPS Data Request Received
+2018-05-11 13:32:40,319 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:40,321 INFO     ,,
+2018-05-11 13:32:40,331 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:40,344 INFO     Send Position:231000 // Remaining:531kB
+2018-05-11 13:32:41,290 INFO     GPS Data Request Received
+2018-05-11 13:32:41,307 INFO     $GPRMC,000803.087,V,,,,,0.00,0.00,130419,,,N*47
+
+2018-05-11 13:32:41,309 INFO     ,,
+2018-05-11 13:32:41,319 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:41,332 INFO     Send Position:234000 // Remaining:528kB
+2018-05-11 13:32:42,304 INFO     GPS Data Request Received
+2018-05-11 13:32:42,320 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:32:42,322 INFO     ,,
+2018-05-11 13:32:42,334 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:42,349 INFO     Send Position:237000 // Remaining:525kB
+2018-05-11 13:32:43,321 INFO     GPS Data Request Received
+2018-05-11 13:32:43,338 ERROR    $GPGGA,000804.087,,,,,0,00,,,M,,M,,*7B
+
+2018-05-11 13:32:43,341 ERROR    Quality is Zero
+2018-05-11 13:32:43,343 INFO     $GPGGA,000804.087,,,,,0,00,,,M,,M,,*7B
+
+2018-05-11 13:32:43,345 INFO     ,,
+2018-05-11 13:32:43,357 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:43,372 INFO     Send Position:240000 // Remaining:522kB
+2018-05-11 13:32:54,017 INFO     try number:1
+2018-05-11 13:32:54,031 INFO     resending last @240000
+2018-05-11 13:32:54,044 INFO     ours:3151d1e8139c2ae6b05e115060969f8f
+2018-05-11 13:32:54,056 INFO     GPS Data Request Received
+2018-05-11 13:32:54,069 INFO     $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+2018-05-11 13:32:54,072 INFO     ,,
+2018-05-11 13:32:54,083 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:32:54,098 INFO     Send Position:240000 // Remaining:522kB
+2018-05-11 13:33:14,515 INFO     try number:2
+2018-05-11 13:33:14,531 INFO     resending last @240000
+2018-05-11 13:33:14,544 INFO     ours:3151d1e8139c2ae6b05e115060969f8f
+2018-05-11 13:33:14,556 INFO     GPS Data Request Received
+2018-05-11 13:33:14,577 INFO     $GPRMC,000804.087,V,,,,,0.00,0.00,130419,,,N*40
+
+2018-05-11 13:33:14,580 INFO     ,,
+2018-05-11 13:33:14,590 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:33:14,603 INFO     Send Position:240000 // Remaining:522kB
+2018-05-11 13:33:30,347 INFO     try number:3
+2018-05-11 13:33:30,360 INFO     resending last @240000
+2018-05-11 13:33:30,372 INFO     ours:3151d1e8139c2ae6b05e115060969f8f
+2018-05-11 13:33:30,384 INFO     GPS Data Request Received
+2018-05-11 13:33:30,404 INFO     $GPVTG,0.00,T,,M,0.00,N,0.00,K,N*32
+
+2018-05-11 13:33:30,407 INFO     ,,
+2018-05-11 13:33:30,422 INFO     formatted: ,,,aaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-05-11 13:33:30,439 INFO     Send Position:240000 // Remaining:522kB
+2018-05-11 13:33:35,694 INFO     error out
+2018-05-11 13:33:35,707 INFO     Image Send Complete
+2018-05-11 13:33:35,719 INFO     Send Time =135.237262011
+2018-05-11 13:33:36,089 INFO     Camera Settings Read
+2018-05-11 13:33:36,781 INFO     (1373,630) photo saved
+2018-05-11 13:33:36,845 INFO     RT:212Watching Serial
+2018-05-11 13:33:41,858 INFO     RT:217Watching Serial
+2018-05-11 13:33:44,982 INFO     Attempting to update camera settings
+2018-05-11 13:33:50,014 INFO     New Camera Settings Received
+2018-05-11 13:33:50,348 INFO     Camera Settings Read
